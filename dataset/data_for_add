@@ -1,0 +1,1203 @@
+,drama_name,Genres,start airing,Aired On,Original Network,score_weighted
+0,100daysmyprince,"['historical', ' comedy', ' romance', ' drama']",2018,"['tuesday', ' monday']",TVN,8.13
+1,12signsoflove,"['comedy', ' romance', ' life']",2012,"['wednesday', ' thursday']",TVN,7.65
+2,12yearspromise,"['food', ' romance', ' drama', ' family']",2014,"['saturday', ' sunday']",JTBC,7.58
+3,18again,"['romance', ' life', ' drama', ' fantasy']",2020,"['monday', ' tuesday']",JTBC,8.42
+4,365:repeattheyear,"['thriller', ' mystery', ' drama', ' fantasy']",2020,"['monday', ' tuesday']",MBC,8.13
+5,4legendarywitches,"['food', ' romance', ' drama', ' family']",2014,"['saturday', ' sunday']",MBC,7.7
+6,5threpublic,"['military', ' historical', ' life', ' drama', ' political']",2005,"['saturday', ' sunday']",MBC,7.7
+7,7firstkisses,"['comedy', ' romance', ' sci-fi']",2016,"['monday', ' thursday']",NAVER TV CAST,7.15
+8,7thgradecivilservant,"['action', ' comedy', ' romance']",2013,"['wednesday', ' thursday']",MBC,7.42
+9,#alive,"['mystery', ' horror', ' supernatural']",2019,"['wednesday', ' saturday']",NAVER TV CAST,7.69
+10,abeautifulmind,"['mystery', ' psychological', ' romance', ' medical']",2016,"['monday', ' tuesday']",KBS2,7.96
+11,abirdthatdoesn'tsing,"['romance', ' drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday']",TVN,7.7
+12,adaughterjustlikeyou,"['comedy', ' romance', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+13,agentleman'sdignity,"['comedy', ' romance', ' drama', ' melodrama']",2012,"['saturday', ' sunday']",SBS,8.09
+14,agirlwhoseessmells,"['mystery', ' romance', ' supernatural']",2015,"['wednesday', ' thursday']",SBS,7.84
+15,ahappywoman,"['romance', ' drama', ' family', ' melodrama']",2007,"['saturday', ' sunday']",KBS2,7.7
+16,ahundredyearlegacy,"['romance', ' drama', ' family']",2013,"['saturday', ' sunday']",MBC,7.63
+17,akoreanodyssey,"['horror', ' comedy', ' romance', ' fantasy']",2017,"['saturday', ' sunday']","NETFLIX, TVN",8.18
+18,alittleloveneverhurts,"['romance', ' drama', ' family']",2013,"['saturday', ' sunday']",MBC,7.68
+19,alovesobeautiful,"['comedy', ' romance', ' life', ' youth']",2020,"['monday', ' thursday', ' saturday']","DAUM KAKAO TV, NETFLIX",7.76
+20,amodelfamily,"['thriller', ' mystery', ' crime', ' drama']",2022,['friday'],NETFLIX,7.7
+21,anewleaf,"['business', ' law', ' drama']",2014,"['wednesday', ' thursday']",MBC,7.59
+22,apieceofyourmind,"['romance', ' life', ' drama', ' melodrama']",2020,"['monday', ' tuesday']",TVN,7.97
+23,aplaceinthesun,"['business', ' romance', ' drama', ' melodrama']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+24,apledgetogod,"['romance', ' life', ' family', ' melodrama']",2018,['saturday'],MBC,7.7
+25,apoemaday,"['romance', ' life', ' drama', ' medical']",2018,"['monday', ' tuesday']",TVN,7.78
+26,asuperiorday,"['thriller', ' mystery', ' psychological', ' drama']",2022,['sunday'],OCN,7.64
+27,ataleoftwosisters,"['romance', ' drama', ' family']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.68
+28,athousanddays'promise,"['romance', ' melodrama']",2011,"['monday', ' tuesday']",SBS,7.69
+29,athousandkisses,"['romance', ' drama', ' family']",2011,"['saturday', ' sunday']",MBC,7.57
+31,awitch'slove,"['business', ' comedy', ' romance']",2014,"['monday', ' tuesday']",TVN,7.87
+32,a-teen2,"['friendship', ' romance', ' school', ' youth']",2019,"['thursday', ' sunday']","NAVER TV CAST, VLIVE",7.83
+33,abouttime,"['music', ' romance', ' fantasy', ' melodrama']",2018,"['monday', ' tuesday']",TVN,7.6
+34,abyss,"['mystery', ' comedy', ' romance', ' fantasy']",2019,"['monday', ' tuesday']","NETFLIX, TVN",7.86
+35,adgeniusleetae-baek,"['business', ' comedy', ' romance', ' drama']",2013,"['monday', ' tuesday']",KBS2,7.6
+36,adamas,"['thriller', ' mystery', ' drama']",2022,"['wednesday', ' thursday']",TVN,7.72
+38,"aeja'soldersister,minja","['romance', ' family']",2008,"['monday', ' friday']",SBS,7.7
+40,againmylife,"['mystery', ' law', ' drama', ' fantasy']",2022,"['friday', ' saturday']","SBS, VIUTV",7.94
+41,ageofwarriors,"['military', ' historical', ' drama', ' political']",2003,"['saturday', ' sunday']",KBS1,7.7
+42,aircity,"['action', ' romance']",2007,"['saturday', ' sunday']",MBC,7.68
+43,alchemyofsouls,"['action', ' historical', ' romance', ' fantasy']",2022,"['saturday', ' sunday']","NETFLIX, TVN",8.19
+44,alice,"['mystery', ' sci-fi', ' fantasy', ' melodrama']",2020,"['friday', ' saturday']",SBS,7.59
+45,allaboutmymom,"['romance', ' drama', ' family', ' melodrama']",2015,"['saturday', ' sunday']",KBS2,7.73
+46,allaboutmyromance,"['comedy', ' romance', ' political']",2013,"['wednesday', ' thursday']",SBS,7.68
+47,allin,"['romance', ' crime', ' drama', ' melodrama']",2003,"['wednesday', ' thursday']",SBS,7.69
+48,allofusaredead,"['action', ' thriller', ' horror', ' sci-fi']",2022,['friday'],NETFLIX,8.24
+49,aloneinlove,"['comedy', ' romance', ' life', ' drama']",2006,"['monday', ' tuesday']",SBS,7.69
+50,amanza,"['life', ' family', ' fantasy', ' melodrama']",2020,['tuesday'],DAUM KAKAO TV,7.75
+51,amorfati,"['romance', ' drama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+52,andante,"['comedy', ' romance', ' youth', ' melodrama']",2017,['sunday'],KBS1,7.65
+53,angshimjung,"['historical', ' mystery']",2010,['thursday'],E-CHANNEL,7.7
+54,angeleyes,"['romance', ' family', ' medical', ' melodrama']",2014,"['saturday', ' sunday']",SBS,7.6
+55,angel'schoice,"['romance', ' drama', ' family']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+56,angel'slastmission:love,"['comedy', ' romance', ' drama', ' fantasy']",2019,"['wednesday', ' thursday']",KBS2,8.32
+57,angel'srevenge,"['romance', ' drama', ' family', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.68
+58,angrymom,"['comedy', ' drama', ' melodrama']",2015,"['wednesday', ' thursday']",MBC,8.06
+60,anothermissoh,"['comedy', ' romance', ' melodrama', ' supernatural']",2016,"['monday', ' tuesday']",TVN,8.07
+61,anotherpeacefuldayofsecond-handitems,"['comedy', ' romance', ' life', ' drama']",2021,['thursday'],NAVER TV CAST,7.7
+62,apgujeongmidnightsun,['family'],2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+63,aprilkiss,"['drama', ' melodrama']",2004,"['wednesday', ' thursday']",KBS2,7.7
+64,arangandthemagistrate,"['historical', ' comedy', ' romance', ' supernatural']",2012,"['wednesday', ' thursday']",MBC,7.82
+65,areyouhuman?,"['comedy', ' romance', ' sci-fi', ' fantasy']",2018,"['monday', ' tuesday']",KBS2,8.15
+66,argon,"['mystery', ' drama', ' political']",2017,"['monday', ' tuesday']",TVN,7.75
+67,arthdalchronicles,"['historical', ' romance', ' fantasy', ' political']",2019,"['saturday', ' sunday']","NETFLIX, TVN",8.25
+68,artificialcity,"['thriller', ' mystery', ' psychological', ' drama']",2021,"['wednesday', ' thursday']",JTBC,7.68
+70,asphaltman,"['action', ' romance', ' drama', ' sports']",1995,"['wednesday', ' thursday']",SBS,7.7
+71,assembly,"['law', ' drama', ' political']",2015,"['wednesday', ' thursday']",KBS2,7.7
+72,ateighteen,"['comedy', ' romance', ' life', ' drama']",2019,"['monday', ' tuesday']","JTBC, VIKI",7.92
+73,"atadistance,springisgreen","['romance', ' life', ' school', ' youth']",2021,"['monday', ' tuesday']","IQIYI, KBS2, VIKI",8.03
+74,autumnshower,"['drama', ' melodrama']",2005,"['wednesday', ' thursday']",MBC,7.7
+75,avengerssocialclub,"['friendship', ' comedy', ' life', ' drama']",2017,"['wednesday', ' thursday']",TVN,8.0
+76,awaken,"['thriller', ' mystery', ' crime', ' fantasy']",2020,"['monday', ' tuesday']",TVN,7.9
+77,babel,"['mystery', ' business', ' law', ' romance']",2019,"['saturday', ' sunday']","TV CHOSUN, VIKI",7.68
+78,babyfacedbeauty,"['business', ' comedy', ' romance']",2011,"['monday', ' tuesday']",KBS2,7.49
+79,babysitter,"['thriller', ' mystery', ' drama']",2016,"['monday', ' tuesday']",KBS2,7.69
+80,bachelor'svegetablestore,"['comedy', ' romance', ' drama', ' melodrama']",2011,"['wednesday', ' thursday']",CHANNEL A,7.57
+81,backstreetrookie,"['action', ' business', ' comedy', ' romance']",2020,"['friday', ' saturday']","IQIYI, SBS",7.7
+82,badandcrazy,"['action', ' thriller', ' mystery']",2021,"['friday', ' saturday']","IQIYI, TVN",8.22
+83,badguy,"['action', ' thriller', ' psychological', ' crime']",2014,['saturday'],OCN,8.18
+84,badguys,"['action', ' thriller', ' psychological', ' crime']",2014,['saturday'],OCN,8.18
+85,badguys2,"['action', ' mystery', ' crime', ' political']",2017,"['saturday', ' sunday']",OCN,7.72
+86,badhousewife,"['comedy', ' romance', ' drama']",2005,"['monday', ' tuesday']",SBS,7.7
+87,badpapa,"['adventure', ' drama', ' family', ' sports']",2018,"['monday', ' tuesday']",MBC,7.7
+88,"badthief,goodthief","['thriller', ' comedy', ' law', ' romance']",2017,"['saturday', ' sunday']",MBC,7.69
+89,"badwoman,goodwoman",['drama'],2007,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+90,balladofseodong,"['historical', ' romance']",2005,"['monday', ' tuesday']",SBS,7.7
+91,bandofsisters,"['romance', ' drama', ' melodrama']",2017,['saturday'],SBS,7.7
+93,basketball,"['historical', ' romance', ' drama', ' sports']",2013,"['monday', ' tuesday']",TVN,7.66
+94,bemelodramatic,"['comedy', ' romance', ' life', ' melodrama']",2019,"['friday', ' saturday']","JTBC, VIKI",8.11
+95,bemydreamfamily,"['comedy', ' romance', ' drama', ' family']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.71
+97,"bestrong,geum-soon!","['comedy', ' romance', ' drama', ' family']",2005,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.69
+98,beatingagain,"['business', ' comedy', ' romance', ' drama']",2015,"['friday', ' saturday']",JTBC,8.02
+99,beatingheart,"['romance', ' life', ' drama']",2005,"['saturday', ' sunday']",MBC,7.7
+100,beautifuldays,"['romance', ' drama', ' family']",2007,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+101,beautifulgongshim,"['comedy', ' romance', ' drama']",2016,"['saturday', ' sunday']",SBS,7.76
+102,"beautifullove,wonderfullife","['comedy', ' romance', ' drama', ' melodrama']",2019,"['saturday', ' sunday']",KBS2,7.72
+103,beautifulworld,"['thriller', ' mystery', ' life', ' melodrama']",2019,"['friday', ' saturday']","JTBC, VIKI",7.9
+104,becausethisismyfirstlife,"['comedy', ' romance', ' life', ' drama']",2017,"['monday', ' tuesday']",TVN,8.38
+105,becky'sback,"['comedy', ' romance', ' drama', ' family']",2016,"['monday', ' tuesday']",KBS2,7.7
+106,becomingwitch,"['mystery', ' comedy']",2022,['saturday'],TV CHOSUN,7.7
+107,behindthewhitetower,"['business', ' drama', ' medical', ' political']",2007,"['saturday', ' sunday']",MBC,7.71
+108,belami,"['comedy', ' romance', ' drama', ' family']",2013,"['wednesday', ' thursday']",KBS2,7.19
+109,bestchicken,"['food', ' business', ' comedy', ' romance']",2019,"['wednesday', ' thursday']","DRAMAX, MBN, VIKI",7.64
+110,beyondevil,"['thriller', ' mystery', ' psychological', ' drama']",2021,"['friday', ' saturday']",JTBC,8.41
+111,beyondtheclouds,"['thriller', ' romance', ' crime', ' drama']",2014,"['monday', ' tuesday']",KBS2,7.69
+112,big,"['comedy', ' romance', ' youth', ' fantasy']",2012,"['monday', ' tuesday']",KBS2,7.24
+113,bigissue,"['thriller', ' mystery', ' romance', ' drama']",2019,"['wednesday', ' thursday']",SBS,7.73
+114,bigman,"['thriller', ' business', ' drama', ' melodrama']",2014,"['monday', ' tuesday']",KBS2,7.63
+115,bigmouth,"['thriller', ' mystery', ' law', ' drama']",2022,"['friday', ' saturday']",MBC,7.9
+116,"billiejean,lookatme","['comedy', ' romance']",2006,"['monday', ' tuesday']",MBC,7.7
+117,birdiebuddy,"['romance', ' sports']",2011,"['monday', ' tuesday']",TVN,7.59
+118,birthofabeauty,"['comedy', ' romance', ' drama', ' melodrama']",2014,"['saturday', ' sunday']",SBS,7.58
+119,birthcarecenter,"['comedy', ' life', ' drama', ' melodrama']",2020,"['monday', ' tuesday']",TVN,7.86
+121,black,"['thriller', ' mystery', ' supernatural']",2017,"['saturday', ' sunday']",OCN,7.98
+122,blackdog:beingateacher,"['comedy', ' life', ' drama']",2019,"['monday', ' tuesday']",TVN,7.79
+124,blackknight:themanwhoguardsme,"['romance', ' drama', ' fantasy', ' melodrama']",2017,"['wednesday', ' thursday']",KBS2,7.53
+125,blademan,"['comedy', ' romance', ' drama', ' supernatural']",2014,"['wednesday', ' thursday']",KBS2,7.42
+126,blessingofthesea,"['comedy', ' romance', ' melodrama']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+128,blood,"['action', ' romance', ' medical', ' supernatural']",2015,"['monday', ' tuesday']",KBS2,7.49
+129,bloodedpalace:thewarofflowers,"['historical', ' romance', ' drama', ' political']",2013,"['saturday', ' sunday']",JTBC,7.69
+130,bloodyheart,"['historical', ' drama', ' political']",2022,"['monday', ' tuesday']",KBS2,7.79
+132,blossomsisters,"['romance', ' drama', ' family']",2010,"['saturday', ' sunday']",MBC,7.7
+133,blowbreeze,"['law', ' romance', ' drama', ' melodrama']",2016,"['saturday', ' sunday']",MBC,7.68
+134,bluebirthday,"['thriller', ' romance', ' drama', ' fantasy']",2021,"['friday', ' saturday']","NAVER TV CAST, VIKI",7.91
+135,bodyguard,"['action', ' friendship', ' romance', ' family']",2003,"['saturday', ' sunday']",KBS2,7.69
+136,bornagain,"['mystery', ' romance', ' fantasy', ' melodrama']",2020,"['monday', ' tuesday']",KBS2,7.58
+137,bossam:stealthefate,"['historical', ' romance', ' life', ' drama']",2021,"['saturday', ' sunday']","MBN, VIKI",7.74
+138,boysoverflowers,"['comedy', ' romance', ' youth', ' drama']",2009,"['monday', ' tuesday']",KBS2,7.61
+139,brain,"['romance', ' drama', ' medical']",2011,"['monday', ' tuesday']",KBS2,7.7
+140,bravomylife,"['comedy', ' romance']",2022,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.71
+141,"bravo,mylife","['comedy', ' romance']",2022,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.71
+142,"bravo,mylove!","['comedy', ' romance', ' melodrama']",2011,"['saturday', ' sunday']",MBC,7.68
+143,bridalmask,"['action', ' historical', ' romance', ' political']",2012,"['wednesday', ' thursday']",KBS2,8.2
+144,brideofthecentury,"['mystery', ' comedy', ' romance', ' supernatural']",2014,"['friday', ' saturday']",TV CHOSUN,7.82
+145,brideofthesun,"['romance', ' drama', ' family']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+146,brilliantheritage,"['comedy', ' romance', ' family', ' melodrama']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+147,brilliantlegacy,"['comedy', ' romance', ' family', ' melodrama']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+148,"bringiton,ghost","['horror', ' comedy', ' romance', ' supernatural']",2016,"['monday', ' tuesday']",TVN,8.1
+149,bubblegum,"['comedy', ' romance', ' drama']",2015,"['monday', ' tuesday']",TVN,7.58
+150,bubblylovely,"['business', ' romance', ' drama', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+151,bulgasal:immortalsouls,"['thriller', ' mystery', ' drama', ' fantasy']",2021,"['saturday', ' sunday']","NETFLIX, TVN",7.98
+152,businessproposal,"['comedy', ' romance', ' drama']",2022,"['monday', ' tuesday']","NETFLIX, SBS",8.55
+153,caféminamdang,"['mystery', ' comedy']",2022,"['monday', ' tuesday']","KBS2, NETFLIX",7.78
+155,"canwefallinlove,again?","['romance', ' drama', ' family']",2014,"['monday', ' tuesday']",JTBC,7.66
+156,canwegetmarried?,"['romance', ' life', ' drama', ' family']",2012,"['monday', ' tuesday']",JTBC,7.55
+157,can'tlose,"['comedy', ' law', ' romance', ' life']",2011,"['wednesday', ' thursday']",MBC,7.63
+158,can'tstandanymore,"['romance', ' drama', ' family']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",JTBC,7.7
+159,capitalscandal,"['historical', ' comedy', ' romance', ' drama']",2007,"['wednesday', ' thursday']",KBS2,7.69
+161,catchtheghost,"['thriller', ' mystery', ' comedy', ' romance']",2019,"['monday', ' tuesday']",TVN,7.87
+162,cheatonmeifyoucan,"['thriller', ' mystery', ' comedy', ' romance']",2020,"['wednesday', ' thursday']",KBS2,7.75
+165,"cheerup,mr.kim!",['drama'],2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.68
+166,cheeseinthetrap,"['psychological', ' romance', ' life', ' drama']",2016,"['monday', ' tuesday']",TVN,7.53
+167,cheongdam-dongalice,"['comedy', ' romance', ' drama', ' melodrama']",2012,"['saturday', ' sunday']",SBS,7.46
+168,cheongdam-dongscandal,"['mystery', ' romance', ' drama', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+169,cheoyong,"['mystery', ' drama', ' supernatural']",2014,['sunday'],OCN,7.68
+170,chicagotypewriter,"['comedy', ' romance', ' supernatural', ' political']",2017,"['friday', ' saturday']",TVN,8.41
+171,chiefofstaff,"['law', ' drama', ' political']",2019,"['friday', ' saturday']","JTBC, NETFLIX",7.76
+172,childrenofalessergod,"['thriller', ' mystery', ' supernatural']",2018,"['saturday', ' sunday']",OCN,7.74
+173,childrenofnobody,"['thriller', ' mystery', ' psychological', ' drama']",2018,"['wednesday', ' thursday']",MBC,8.0
+174,childrenofthe20thcentury,"['comedy', ' romance', ' life']",2017,"['monday', ' tuesday']",MBC,7.73
+175,chimera,"['thriller', ' mystery']",2021,"['saturday', ' sunday']",OCN,7.77
+176,chipin,"['thriller', ' mystery', ' comedy', ' melodrama']",2020,"['wednesday', ' thursday']",MBC,7.72
+177,chocobank,"['business', ' comedy', ' romance', ' drama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",NAVER TV CAST,7.49
+178,chocolate,"['romance', ' life', ' medical', ' melodrama']",2019,"['friday', ' saturday']","JTBC, NETFLIX",7.91
+180,cinderellawithfourknights,"['comedy', ' romance', ' drama']",2016,"['friday', ' saturday']",TVN,7.78
+181,circle,"['thriller', ' mystery', ' sci-fi']",2017,"['monday', ' tuesday']",TVN,8.11
+182,cityhunter,"['action', ' thriller', ' crime']",2011,"['wednesday', ' thursday']",SBS,8.28
+183,cityofthesun,"['mystery', ' law', ' drama', ' melodrama']",2015,"['friday', ' saturday']",MBC DRAMANET,7.7
+184,classoflies,"['thriller', ' mystery', ' law', ' youth']",2019,"['wednesday', ' thursday']",OCN,7.98
+185,cleanwithpassionfornow,"['business', ' comedy', ' romance', ' drama']",2018,"['monday', ' tuesday']",JTBC,7.7
+186,cleaningup,"['comedy', ' crime', ' drama']",2022,"['saturday', ' sunday']",JTBC,7.7
+187,coffeeprince,"['food', ' comedy', ' romance', ' drama']",2007,"['monday', ' tuesday']",MBC,8.21
+188,"coffee,domeafavor","['comedy', ' romance', ' fantasy']",2018,"['saturday', ' sunday']","CHANNEL A, VIKI",7.59
+189,colorrush,"['mystery', ' romance', ' drama', ' supernatural']",2020,"['wednesday', ' thursday']","LINE TV, VIKI, VIUTV",7.7
+190,coma,"['thriller', ' horror', ' supernatural']",2006,['friday'],OCN,7.68
+191,comeandhugme,"['thriller', ' mystery', ' romance', ' melodrama']",2018,"['wednesday', ' thursday']",MBC,8.16
+192,comebackmister,"['comedy', ' romance', ' drama', ' supernatural']",2016,"['wednesday', ' thursday']",SBS,7.86
+193,confession,"['thriller', ' mystery', ' law', ' drama']",2019,"['saturday', ' sunday']",TVN,7.85
+195,conspiracyinthecourt,"['historical', ' drama']",2007,"['monday', ' tuesday']",KBS2,7.7
+196,"coolguys,hotramen","['food', ' comedy', ' romance']",2011,"['monday', ' tuesday']",TVN,7.49
+197,coupleortrouble,"['comedy', ' romance']",2006,"['saturday', ' sunday']",MBC,7.65
+198,crashlandingonyou,"['military', ' comedy', ' romance', ' political']",2019,"['sunday', ' saturday']","NETFLIX, TVN",8.86
+199,crazylove,"['comedy', ' romance', ' drama']",2022,"['monday', ' tuesday']",KBS2,8.01
+200,criminalminds,"['action', ' mystery', ' drama']",2017,"['wednesday', ' thursday']",TVN,7.74
+201,cross,"['thriller', ' mystery', ' medical']",2018,"['monday', ' tuesday']",TVN,7.74
+202,cruellove,"['romance', ' drama', ' melodrama']",2022,"['saturday', ' sunday']","JTBC, NETFLIX",7.7
+203,cunningsinglelady,"['business', ' comedy', ' romance']",2014,"['wednesday', ' thursday']",MBC,7.76
+205,d.p.,"['action', ' military', ' drama']",2021,['friday'],NETFLIX,8.43
+206,daejanggeum,"['food', ' comedy', ' romance', ' supernatural']",2018,['thursday'],MBC,7.68
+207,daejanggeumiswatching,"['food', ' comedy', ' romance', ' supernatural']",2018,['thursday'],MBC,7.68
+208,daejo-yeong,"['historical', ' war']",2006,"['saturday', ' sunday']",KBS1,7.71
+209,daemyeong,"['historical', ' drama']",1981,['monday'],KBS1,7.7
+210,dal-ja'sspring,"['business', ' comedy', ' romance', ' drama']",2007,"['wednesday', ' thursday']",KBS2,7.7
+211,daliandcockyprince,"['comedy', ' romance', ' drama']",2021,"['wednesday', ' thursday']",KBS2,8.19
+212,damo,"['historical', ' mystery', ' romance']",2003,"['monday', ' tuesday']",MBC,7.7
+213,dangerouswoman,"['business', ' romance', ' drama', ' melodrama']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+214,daringwomen,['romance'],2006,"['saturday', ' sunday']",MBC,7.7
+215,darkhole,"['action', ' thriller', ' horror', ' sci-fi']",2021,"['friday', ' saturday']","OCN, TVN",7.7
+216,datingagency:cyrano,"['comedy', ' romance', ' drama']",2013,"['monday', ' tuesday']",TVN,7.59
+217,dearheaven,"['romance', ' drama', ' melodrama']",2005,"['saturday', ' sunday']",SBS,7.7
+218,dearmyfriends,"['life', ' drama', ' family', ' melodrama']",2016,"['friday', ' saturday']",TVN,7.98
+219,dearxwhodoesn'tloveme,"['romance', ' drama']",2022,['thursday'],"IQIYI, VIKI",7.66
+220,dear.m,"['romance', ' life', ' youth', ' drama']",2022,['wednesday'],"KBS2, VIKI",7.83
+221,deeprootedtree,"['historical', ' mystery', ' political']",2011,"['wednesday', ' thursday']",SBS,7.86
+222,definitelyneighbors,"['romance', ' family']",2010,"['saturday', ' sunday']",SBS,7.7
+223,delayedjustice,"['mystery', ' comedy', ' law', ' melodrama']",2020,"['friday', ' saturday']",SBS,7.7
+224,deliciousproposal,"['food', ' comedy', ' romance']",2001,"['wednesday', ' thursday']",MBC,7.7
+226,descendantsofthesun,"['action', ' comedy', ' romance', ' melodrama']",2016,"['wednesday', ' thursday']",KBS2,8.6
+227,designatedsurvivor:60days,"['thriller', ' mystery', ' drama', ' political']",2019,"['monday', ' tuesday']","NETFLIX, TVN",8.03
+228,devilishcharm,"['comedy', ' romance', ' drama']",2018,"['wednesday', ' thursday']","DRAMAX, MBN, VIKI",7.81
+229,diaryofanightwatchman,"['action', ' historical', ' romance', ' supernatural']",2014,"['monday', ' tuesday']",MBC,7.6
+230,diaryofaprosecutor,"['mystery', ' law', ' life', ' drama']",2019,"['monday', ' tuesday']",JTBC,7.78
+231,didwereallylove?,"['romance', ' life', ' drama']",1999,"['wednesday', ' thursday']",MBC,7.7
+232,differentdreams,"['action', ' historical', ' romance', ' medical']",2019,['saturday'],MBC,7.71
+233,dinnermate,"['comedy', ' romance', ' life', ' drama']",2020,"['monday', ' tuesday']","IQIYI, MBC",7.83
+234,discoveryoflove,"['comedy', ' romance', ' drama']",2014,"['monday', ' tuesday']",KBS2,7.66
+235,distorted,"['thriller', ' mystery', ' law']",2017,"['monday', ' tuesday']",SBS,7.73
+236,divorcelawyerinlove,"['comedy', ' law', ' romance']",2015,"['saturday', ' sunday']",SBS,7.63
+237,dodosolsollalasol,"['music', ' comedy', ' romance', ' melodrama']",2020,"['wednesday', ' thursday']","KBS2, NETFLIX",7.7
+238,doyoulikebrahms?,"['music', ' romance', ' drama', ' melodrama']",2020,"['monday', ' tuesday']",SBS,7.92
+239,doctordetective,"['thriller', ' mystery', ' drama', ' medical']",2019,"['wednesday', ' thursday']",SBS,7.7
+240,doctorjohn,"['mystery', ' romance', ' life', ' medical']",2019,"['friday', ' saturday']",SBS,8.19
+241,doctorlawyer,"['thriller', ' law', ' drama', ' medical']",2022,"['friday', ' saturday']",MBC,7.73
+242,doctorprisoner,"['thriller', ' law', ' crime', ' medical']",2019,"['wednesday', ' thursday']",KBS2,8.0
+243,doctorstranger,"['thriller', ' romance', ' drama', ' medical']",2014,"['monday', ' tuesday']",SBS,7.86
+244,dokgorewind,"['action', ' crime', ' youth']",2018,['friday'],"OKSUSU, VIKI",7.78
+245,don'tcrymylove,"['romance', ' family']",2008,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.69
+246,don'tdaretodream,"['comedy', ' romance']",2016,"['wednesday', ' thursday']",SBS,7.96
+247,don'thesitate,"['romance', ' drama']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.66
+248,don'tlookback:thelegendoforpheus,"['thriller', ' romance', ' drama', ' melodrama']",2013,"['monday', ' tuesday']",KBS2,7.7
+249,doomatyourservice,"['comedy', ' romance', ' drama', ' fantasy']",2021,"['monday', ' tuesday']","TVN, VIUTV",8.24
+250,whitechristmas,['drama'],1997,"['wednesday', ' thursday']",SBS,7.7
+251,dream,"['romance', ' sports', ' melodrama']",2009,"['monday', ' tuesday']",SBS,7.64
+252,dreamhigh,"['music', ' comedy', ' romance']",2012,"['monday', ' tuesday']",KBS2,7.16
+253,dreamhigh2,"['music', ' comedy', ' romance']",2012,"['monday', ' tuesday']",KBS2,7.16
+254,dreamoftheemperor,"['historical', ' drama']",2012,"['saturday', ' sunday']",KBS1,7.7
+255,drinkingsolo,"['food', ' comedy', ' romance']",2016,"['monday', ' tuesday']",TVN,7.7
+257,dr.frost,"['mystery', ' psychological', ' drama', ' medical']",2014,['sunday'],OCN,7.7
+258,dr.ian,['romance'],2015,"['monday', ' tuesday', ' wednesday', ' sunday']",NAVER TV CAST,7.61
+259,dr.jin,"['historical', ' romance', ' medical', ' fantasy']",2012,"['saturday', ' sunday']",MBC,7.45
+260,dr.kkang,"['action', ' thriller', ' romance', ' medical']",2006,"['wednesday', ' thursday']",MBC,7.7
+262,dr.romantic,"['romance', ' drama', ' medical']",2016,"['monday', ' tuesday']",SBS,8.43
+263,duel,"['thriller', ' mystery', ' sci-fi']",2017,"['saturday', ' sunday']",OCN,7.93
+264,dummymommy,"['comedy', ' drama', ' family', ' melodrama']",2012,"['saturday', ' sunday']",SBS,7.7
+265,eccentric!chefmoon,"['food', ' comedy', ' romance', ' melodrama']",2020,"['friday', ' saturday']",CHANNEL A,7.69
+266,"eightdays,assassinationattemptsagainstkingjeongjo","['historical', ' mystery', ' drama']",2007,"['saturday', ' sunday']",CGV,7.7
+267,emergencycouple,"['comedy', ' romance', ' drama', ' medical']",2014,"['friday', ' saturday']",TVN,7.85
+268,emperorofthesea,"['action', ' historical', ' drama', ' war']",2004,"['wednesday', ' thursday']",KBS2,7.7
+269,empireofgold,"['business', ' drama', ' family']",2013,"['monday', ' tuesday']",SBS,7.69
+270,empresski,"['historical', ' romance', ' melodrama', ' political']",2013,"['monday', ' tuesday']",MBC,8.27
+271,empressmyeongseong,"['historical', ' drama']",2001,"['wednesday', ' thursday']",KBS2,7.7
+272,enchantingneighbor,"['romance', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+273,encounter,"['business', ' romance', ' life', ' political']",2018,"['wednesday', ' thursday']",TVN,7.94
+274,endlesslove,"['action', ' romance', ' drama', ' melodrama']",2014,"['saturday', ' sunday']",SBS,7.67
+275,summerscent,"['romance', ' melodrama']",2003,"['monday', ' tuesday']",KBS2,7.64
+276,enemiesfromthepast,"['romance', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+277,entertainer,"['music', ' business', ' comedy', ' drama']",2016,"['wednesday', ' thursday']",SBS,7.7
+278,entourage,"['business', ' comedy', ' drama']",2016,"['friday', ' saturday']",TVN,7.53
+279,erexion,"['action', ' tokusatsu', ' sci-fi', ' fantasy']",2006,['friday'],KBS2,7.7
+280,eve,"['romance', ' drama', ' melodrama']",2022,"['wednesday', ' thursday']",TVN,7.81
+281,evergreen,"['comedy', ' romance', ' fantasy']",2018,"['monday', ' tuesday']",OCN,7.5
+282,everybodysaykimchi,['drama'],2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+283,exonextdoor,"['music', ' comedy', ' romance']",2015,"['tuesday', ' thursday']",NAVER TV CAST,7.7
+284,extracurricular,"['psychological', ' crime', ' youth', ' drama']",2020,['wednesday'],NETFLIX,8.31
+285,extraordinaryattorneywoo,"['law', ' romance', ' life', ' drama']",2022,"['wednesday', ' thursday']",NETFLIX,8.45
+286,extraordinaryyou,"['comedy', ' romance', ' youth', ' fantasy']",2019,"['wednesday', ' thursday']",MBC,8.28
+287,ex-girlfriends'club,"['comedy', ' romance', ' drama']",2015,"['friday', ' saturday']",TVN,7.66
+288,eyesofdawn,"['action', ' historical', ' romance', ' drama']",1991,"['wednesday', ' thursday']",MBC,7.71
+289,faith,"['historical', ' romance', ' medical', ' supernatural']",2012,"['monday', ' tuesday']",SBS,7.98
+291,familiarwife,"['comedy', ' romance', ' drama', ' fantasy']",2018,"['wednesday', ' thursday']",TVN,7.91
+292,family,"['comedy', ' romance', ' sitcom']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.71
+293,familysecret,"['drama', ' family', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday']",TVN,7.7
+294,family'shonor,"['comedy', ' romance', ' drama', ' family']",2008,"['saturday', ' sunday']",SBS,7.72
+295,fantastic,"['comedy', ' romance', ' drama', ' medical']",2016,"['friday', ' saturday']",JTBC,7.68
+296,fashion70s,"['romance', ' drama', ' family', ' melodrama']",2005,"['monday', ' tuesday']",SBS,7.68
+297,fashionking,"['romance', ' drama', ' melodrama']",2012,"['monday', ' tuesday']",SBS,7.04
+298,fatalpromise,"['romance', ' drama', ' family', ' melodrama']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+299,fates&furies,"['romance', ' drama', ' family', ' melodrama']",2018,['saturday'],"SBS, VIKI",7.68
+300,"father,i'lltakecareofyou","['romance', ' drama', ' family', ' melodrama']",2016,"['saturday', ' sunday']",MBC,7.69
+301,father'shouse,"['drama', ' family']",2009,"['monday', ' tuesday']",SBS,7.7
+302,feastofthegods,"['comedy', ' romance', ' drama', ' melodrama']",2012,"['saturday', ' sunday']",MBC,7.67
+303,feelgoodtodie,"['comedy', ' romance', ' drama', ' fantasy']",2018,"['wednesday', ' thursday']",KBS2,7.73
+304,fightformyway,"['business', ' comedy', ' romance', ' sports']",2017,"['monday', ' tuesday']",KBS2,8.39
+305,findmeinyourmemory,"['romance', ' drama', ' melodrama']",2020,"['wednesday', ' thursday']",MBC,7.98
+306,fireworks,"['romance', ' drama']",2000,"['wednesday', ' thursday']",SBS,7.7
+307,firstlove,['romance'],1986,"['wednesday', ' thursday']",MBC,7.7
+309,firstwives'club,"['romance', ' family']",2007,"['saturday', ' sunday']",SBS,7.7
+310,fiveenough,"['comedy', ' romance', ' drama', ' melodrama']",2016,"['saturday', ' sunday']",KBS2,7.87
+311,fivefingers,"['music', ' romance', ' melodrama']",2012,"['saturday', ' sunday']",SBS,7.67
+312,flowerband,"['music', ' romance', ' youth']",2012,"['monday', ' tuesday']",TVN,7.97
+313,flowercrew:joseonmarriageagency,"['historical', ' comedy', ' romance', ' drama']",2019,"['monday', ' tuesday']","JTBC, VIKI",7.74
+314,flowergrandpainvestigationunit,"['mystery', ' comedy']",2014,['friday'],TVN,7.72
+315,flowerofevil,"['thriller', ' romance', ' crime', ' melodrama']",2020,"['wednesday', ' thursday']",TVN,8.83
+316,flowerofqueen,"['comedy', ' romance', ' drama']",2015,"['saturday', ' sunday']",MBC,7.69
+317,flowerofrevenge,['melodrama'],2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",JTBC,7.7
+318,flowersoftheprison,"['historical', ' law', ' drama', ' melodrama']",2016,"['saturday', ' sunday']",MBC,7.72
+320,forecastingloveandweather,"['romance', ' drama', ' melodrama']",2022,"['saturday', ' sunday']","JTBC, NETFLIX",7.7
+321,forest,"['business', ' psychological', ' romance', ' medical']",2020,"['wednesday', ' thursday']",KBS2,7.78
+324,foursisters,"['romance', ' drama']",2001,"['wednesday', ' thursday']",MBC,7.7
+325,"freedomfighter,leehoe-young","['action', ' historical']",2010,"['saturday', ' sunday']",KBS1,7.7
+327,"fromnowon,showtime!","['mystery', ' comedy', ' romance', ' fantasy']",2022,"['saturday', ' sunday']","MBC, VIUTV",7.96
+328,fullhousetake2,"['comedy', ' romance', ' drama', ' martial arts']",2012,"['monday', ' tuesday', ' wednesday', ' thursday']",SBS PLUS,7.47
+329,gangnambeauty,"['psychological', ' romance', ' youth', ' drama']",2018,"['friday', ' saturday']",JTBC,7.96
+330,gangnamscandal,"['business', ' comedy', ' romance', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.69
+331,gap-dong,"['thriller', ' mystery', ' drama']",2014,"['friday', ' saturday']",TVN,7.77
+332,getrevenge,"['mystery', ' drama']",2020,"['saturday', ' sunday']",TV CHOSUN,7.7
+333,getup,['school'],2008,['sunday'],MBC,7.7
+334,ghostdoctor,"['comedy', ' medical', ' fantasy', ' supernatural']",2022,"['monday', ' tuesday']",TVN,8.17
+335,girls'generation1979,"['mystery', ' romance', ' youth', ' drama']",2017,"['monday', ' tuesday']",KBS2,7.81
+336,glamoroustemptation,"['romance', ' drama', ' melodrama', ' political']",2015,"['monday', ' tuesday']",MBC,7.66
+337,glasscastle,"['romance', ' drama']",2008,"['saturday', ' sunday']",SBS,7.69
+338,glassmask,"['psychological', ' drama', ' melodrama']",2012,"['monday', ' tuesday', ' wednesday', ' thursday']",TVN,7.68
+339,glassslippers,"['romance', ' family']",2002,"['saturday', ' sunday']",SBS,7.69
+341,gloria,"['romance', ' drama']",2011,"['wednesday', ' thursday']",KBS2,7.57
+342,gloriousday,"['comedy', ' romance', ' drama', ' family']",2014,"['saturday', ' sunday']",SBS,7.72
+343,gloryjane,"['romance', ' drama']",2011,"['wednesday', ' thursday']",KBS2,7.57
+344,goback,"['romance', ' life', ' youth', ' drama']",2018,"['thursday', ' saturday']","NAVER TV CAST, VLIVE",7.67
+345,godofwar,"['military', ' adventure', ' historical', ' drama']",2012,"['saturday', ' sunday']",MBC,7.7
+346,goddessoffire,"['historical', ' romance', ' drama']",2013,"['monday', ' tuesday']",MBC,7.63
+347,goddessofmarriage,"['comedy', ' romance', ' drama']",2013,"['saturday', ' sunday']",SBS,7.64
+348,god'sgift:14days,"['thriller', ' mystery', ' drama', ' supernatural']",2014,"['monday', ' tuesday']",SBS,7.95
+349,"gogh,thestarrynight","['business', ' comedy', ' romance', ' drama']",2016,"['saturday', ' sunday']","SBS, SOHU TV",7.97
+350,goldmask,"['drama', ' melodrama']",2022,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+351,goldenapple,"['drama', ' family']",2005,"['wednesday', ' thursday']",KBS2,7.7
+352,goldenbride,"['comedy', ' romance', ' drama', ' family']",2007,"['saturday', ' sunday']",SBS,7.69
+353,goldencross,"['thriller', ' romance', ' drama', ' melodrama']",2014,"['wednesday', ' thursday']",KBS2,7.67
+354,goldenfish,"['romance', ' drama', ' melodrama']",2010,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+355,goldenpouch,"['food', ' romance', ' drama', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+356,goldenrainbow,"['romance', ' drama', ' melodrama']",2013,"['saturday', ' sunday']",MBC,7.67
+358,goldentime,"['comedy', ' romance', ' medical']",2012,"['monday', ' tuesday']",MBC,7.68
+359,goodcasting,"['action', ' mystery', ' comedy', ' drama']",2020,"['monday', ' tuesday']",SBS,7.75
+360,gooddoctor,"['romance', ' life', ' drama', ' medical']",2013,"['monday', ' tuesday']",KBS2,8.11
+361,"goodjob,goodjob","['romance', ' family']",2009,"['saturday', ' sunday']",MBC,7.69
+362,goodmanager,"['business', ' comedy', ' crime', ' drama']",2017,"['wednesday', ' thursday']",KBS2,8.25
+363,goodbyedearwife,"['comedy', ' romance']",2012,"['monday', ' tuesday']",CHANNEL A,7.68
+364,goodbyemr.black,"['thriller', ' business', ' romance', ' drama']",2016,"['wednesday', ' thursday']",MBC,7.65
+365,goodbyemylove,"['romance', ' drama']",1999,"['wednesday', ' thursday']",MBC,7.7
+366,goodbyesolo,"['romance', ' life']",2006,"['wednesday', ' thursday']",KBS2,7.7
+367,goodbyetogoodbye,"['romance', ' life', ' drama', ' melodrama']",2018,['saturday'],MBC,7.73
+368,gracefulfamily,"['thriller', ' mystery', ' drama', ' melodrama']",2019,"['wednesday', ' thursday']",MBN,7.99
+369,gracefulfriends,"['mystery', ' life', ' drama']",2020,"['friday', ' saturday']",JTBC,7.68
+370,graciousrevenge,"['romance', ' drama', ' family', ' melodrama']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+371,grandprince,"['historical', ' romance', ' drama', ' political']",2018,"['saturday', ' sunday']","TV CHOSUN, VIKI",7.72
+372,greenmothers'club,"['mystery', ' drama']",2022,"['wednesday', ' thursday']","JTBC, NETFLIX",7.69
+374,gufamilybook,"['action', ' historical', ' romance', ' fantasy']",2013,"['monday', ' tuesday']",MBC,8.11
+375,guardianangel,"['comedy', ' romance', ' life', ' drama']",2001,"['wednesday', ' thursday']",SBS,7.7
+376,guardian:thelonelyandgreatgod,"['comedy', ' romance', ' fantasy', ' melodrama']",2016,"['friday', ' saturday']",TVN,8.71
+377,gunmaninjoseon,"['action', ' historical', ' romance', ' melodrama']",2014,"['wednesday', ' thursday']",KBS2,7.7
+378,"gwanggaeto,thegreatconqueror","['historical', ' political']",2011,"['saturday', ' sunday']",KBS1,7.71
+379,gyebaek,"['historical', ' romance', ' drama']",2011,"['monday', ' tuesday']",MBC,7.7
+380,haechi,"['action', ' adventure', ' historical', ' political']",2019,"['monday', ' tuesday']",SBS,7.78
+381,happiness,"['action', ' thriller', ' drama', ' sci-fi']",2021,"['friday', ' saturday']",TVN,8.59
+383,happyhome,"['romance', ' drama', ' melodrama']",2016,"['saturday', ' sunday']",MBC,7.69
+384,happysisters,"['romance', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+385,happytogether,"['romance', ' drama', ' melodrama']",1999,"['wednesday', ' thursday']",SBS,7.7
+386,heispsychometric,"['thriller', ' mystery', ' romance', ' supernatural']",2019,"['monday', ' tuesday']",TVN,8.24
+387,healer,"['action', ' thriller', ' mystery', ' romance']",2014,"['monday', ' tuesday']",KBS2,8.75
+388,hearditthroughthegrapevine,"['comedy', ' romance', ' family', ' melodrama']",2015,"['monday', ' tuesday']",SBS,7.7
+389,heartsurgeons,"['action', ' life', ' drama', ' medical']",2018,"['wednesday', ' thursday']",SBS,7.72
+390,hearttoheart,"['psychological', ' comedy', ' romance']",2015,"['friday', ' saturday']",TVN,7.78
+391,heartlesscity,"['action', ' thriller', ' romance', ' crime']",2013,"['monday', ' tuesday']",JTBC,8.17
+392,heartstrings,"['music', ' romance', ' youth', ' drama']",2011,"['wednesday', ' thursday']",MBC,7.62
+393,hellisotherpeople,"['thriller', ' horror', ' psychological', ' drama']",2019,"['saturday', ' sunday']",OCN,8.41
+394,hellbound,"['mystery', ' horror', ' drama', ' supernatural']",2021,['friday'],NETFLIX,7.64
+395,hellofranceska,"['family', ' supernatural', ' sitcom']",2005,['monday'],MBC,7.7
+396,hellomonster,"['thriller', ' mystery', ' psychological', ' drama']",2015,"['monday', ' tuesday']",KBS2,8.21
+397,"hello,me!","['comedy', ' romance', ' life', ' fantasy']",2021,"['wednesday', ' thursday']","KBS2, NETFLIX",7.83
+398,"hello,mytwenties!","['comedy', ' romance', ' life', ' drama']",2016,"['friday', ' saturday']",JTBC,8.39
+399,herprivatelife,"['comedy', ' romance']",2019,"['wednesday', ' thursday']",TVN,8.29
+400,herecomesmr.oh,"['comedy', ' romance', ' drama', ' family']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+401,here'smyplan,"['romance', ' drama']",2021,"['wednesday', ' thursday']",MBC,7.75
+402,hero,"['action', ' fantasy', ' supernatural']",2012,['sunday'],OCN,7.69
+403,"hibye,mama!","['romance', ' family', ' melodrama', ' supernatural']",2020,"['saturday', ' sunday']","NETFLIX, TVN",8.21
+404,hi!school:loveon,"['romance', ' school', ' youth', ' fantasy']",2014,['friday'],KBS2,7.63
+405,hiddenidentity,"['mystery', ' drama']",2015,"['monday', ' tuesday']",TVN,7.7
+406,hideandseek,"['crime', ' drama', ' family', ' melodrama']",2018,['saturday'],MBC,7.69
+407,highclass,"['thriller', ' mystery', ' drama']",2021,"['monday', ' tuesday']",TVN,7.7
+408,highendcrush,"['comedy', ' romance', ' drama']",2015,"['saturday', ' sunday']","MBN, NAVER TV CAST, SOHU TV",7.75
+409,highkick!,"['comedy', ' romance', ' drama', ' sitcom']",2006,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.75
+410,highkick:revengeoftheshortlegged,"['comedy', ' romance', ' drama', ' sitcom']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.78
+411,highschoolkingofsavvy,"['comedy', ' romance', ' school', ' sports']",2014,"['monday', ' tuesday']",TVN,7.7
+412,highsociety,"['business', ' comedy', ' romance', ' melodrama']",2015,"['monday', ' tuesday']",SBS,7.47
+414,hitthetop,"['comedy', ' romance', ' life', ' drama']",2017,"['friday', ' saturday']",KBS2,7.95
+415,hogu'slove,"['comedy', ' romance', ' youth', ' melodrama']",2015,"['monday', ' tuesday']",TVN,7.89
+416,holdmetight,"['romance', ' drama', ' family', ' melodrama']",2018,"['wednesday', ' thursday']",MBC,7.68
+417,holdmyhand,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+418,homeforsummer,"['romance', ' drama', ' family', ' melodrama']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.69
+419,homemadelovestory,"['comedy', ' romance', ' drama']",2020,"['saturday', ' sunday']",KBS2,7.7
+420,hometown,"['thriller', ' historical', ' mystery', ' horror']",2021,"['wednesday', ' thursday']",TVN,7.68
+421,hometowncha-cha-cha,"['comedy', ' romance', ' life', ' drama']",2021,"['saturday', ' sunday']","NETFLIX, TVN",8.6
+422,hongkongexpress,"['romance', ' drama']",2005,"['wednesday', ' thursday']",SBS,7.7
+423,hospitalplaylist,"['romance', ' life', ' drama', ' medical']",2020,['thursday'],"NETFLIX, TVN",8.81
+424,hospitalship,"['romance', ' drama', ' medical']",2017,"['wednesday', ' thursday']",MBC,7.78
+425,hotstoveleague,"['drama', ' sports', ' melodrama']",2019,"['friday', ' saturday']",SBS,8.18
+426,hoteldelluna,"['horror', ' comedy', ' romance', ' fantasy']",2019,"['saturday', ' sunday']",TVN,8.57
+427,hotelking,"['business', ' romance', ' drama', ' melodrama']",2014,"['saturday', ' sunday']",MBC,7.75
+428,hotelier,"['business', ' romance', ' drama']",2001,"['wednesday', ' thursday']",MBC,7.69
+429,houseofbluebird,"['comedy', ' romance', ' drama']",2015,"['saturday', ' sunday']",KBS2,7.68
+430,howareubread,"['food', ' romance', ' drama', ' fantasy']",2020,['saturday'],"NAVER TV CAST, VIKI",7.56
+431,howlongi'vekissed,"['romance', ' drama', ' family', ' melodrama']",2012,"['wednesday', ' thursday']",JTBC,7.71
+432,howtobethirty,"['comedy', ' romance', ' drama']",2021,"['tuesday', ' saturday']","DAUM KAKAO TV, VIKI",7.53
+433,howtobuyafriend,"['mystery', ' comedy', ' romance', ' drama']",2020,"['monday', ' tuesday']",KBS2,7.75
+434,howtomeetaperfectneighbor,"['mystery', ' comedy', ' romance']",2007,"['wednesday', ' thursday']",SBS,7.67
+435,howshouldibe,['drama'],2001,['sunday'],MBC,7.7
+436,hurjun,['historical'],1999,"['monday', ' tuesday']",MBC,7.71
+437,"hurjun,theoriginalstory","['historical', ' drama', ' medical']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.71
+438,hush,"['mystery', ' business', ' comedy', ' life']",2020,"['friday', ' saturday']","IQIYI, JTBC",7.7
+439,hwarang:thepoetwarrioryouth,"['action', ' historical', ' comedy', ' romance']",2016,"['monday', ' tuesday']",KBS2,7.94
+440,"hydejekyll,me","['psychological', ' comedy', ' romance', ' drama']",2015,"['wednesday', ' thursday']",SBS,7.58
+441,hyena,"['comedy', ' romance', ' mature']",2006,"['wednesday', ' thursday']",TVN,7.7
+442,icanhearyourvoice,"['mystery', ' law', ' romance', ' supernatural']",2013,"['wednesday', ' thursday']",SBS,8.36
+443,"ido,ido","['comedy', ' romance']",2012,"['wednesday', ' thursday']",MBC,7.53
+444,ihavealover,"['romance', ' drama', ' melodrama']",2015,"['saturday', ' sunday']",SBS,7.72
+445,ilikeyou,['romance'],2008,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",KBS2,7.7
+446,iloveleetaly,"['comedy', ' romance', ' fantasy', ' supernatural']",2012,"['monday', ' tuesday']",TVN,7.53
+447,ineedromance,"['friendship', ' comedy', ' romance']",2011,"['monday', ' tuesday']",TVN,7.56
+448,ineedromance2012,"['comedy', ' romance']",2012,"['wednesday', ' thursday']",TVN,7.64
+449,ineedromance3,"['comedy', ' romance', ' drama']",2014,"['monday', ' tuesday']",TVN,7.8
+450,iorderyou,"['food', ' comedy', ' romance', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday']",SBS PLUS,7.58
+451,ipickedupacelebrityonthestreet,"['comedy', ' romance']",2018,"['thursday', ' friday']","OKSUSU, VIKI",7.62
+452,iwannahearyoursong,"['music', ' mystery', ' comedy', ' romance']",2019,"['monday', ' tuesday']",KBS2,7.65
+453,i'mafteryou,"['romance', ' drama', ' sports']",2003,"['wednesday', ' thursday']",MBC,7.69
+454,i'mnotarobot,"['comedy', ' romance', ' drama', ' sci-fi']",2017,"['wednesday', ' thursday']",MBC,8.3
+455,"i'msorry,butiloveyou","['romance', ' life', ' drama', ' family']",2004,"['monday', ' tuesday']",KBS2,7.82
+456,"i'msorry,iloveyou","['romance', ' life', ' drama', ' family']",2004,"['monday', ' tuesday']",KBS2,7.82
+457,iceadonis,"['romance', ' drama', ' melodrama']",2012,"['monday', ' tuesday', ' wednesday', ' thursday']",TVN,7.71
+459,idol:thecoup,"['music', ' youth', ' drama']",2021,"['monday', ' tuesday']","IQIYI, JTBC",7.79
+460,iftomorrowcomes,"['romance', ' life', ' drama', ' family']",2011,"['saturday', ' sunday']",SBS,7.69
+461,ifyouwishuponme,"['life', ' drama', ' medical']",2022,"['wednesday', ' thursday']","KBS2, VIUTV",7.73
+462,iljimae,"['historical', ' drama']",1993,"['monday', ' tuesday']",MBC,7.7
+463,imaginarycat,"['friendship', ' life']",2015,['tuesday'],MBC EVERY1,7.61
+464,imitation,"['music', ' comedy', ' romance', ' drama']",2021,['friday'],"KBS2, VIKI",7.92
+465,immortaladmiralyisun-sin,"['action', ' military', ' historical', ' drama']",2004,"['saturday', ' sunday']",KBS1,7.7
+466,in-soonispretty,"['romance', ' drama']",2007,"['wednesday', ' thursday']",KBS2,7.68
+467,incarnationofmoney,"['business', ' romance', ' drama']",2013,"['saturday', ' sunday']",SBS,7.74
+468,innocentdefendant,"['thriller', ' mystery', ' law', ' drama']",2017,"['monday', ' tuesday']",SBS,8.24
+469,insider,"['action', ' thriller', ' law']",2022,"['wednesday', ' thursday']",JTBC,7.74
+470,inspectorkoo,"['action', ' thriller', ' mystery', ' comedy']",2021,"['saturday', ' sunday']","JTBC, NETFLIX",7.86
+471,inspiringgeneration,"['action', ' historical', ' romance', ' drama']",2014,"['wednesday', ' thursday']",KBS2,7.58
+472,"insu,thequeenmother","['historical', ' drama']",2011,"['saturday', ' sunday']",JTBC,7.7
+473,intotheflames,"['historical', ' drama', ' political']",2014,"['friday', ' saturday']",TV CHOSUN,7.7
+474,introvertedboss,"['business', ' comedy', ' romance', ' drama']",2017,"['monday', ' tuesday']",TVN,7.85
+475,ireland,"['romance', ' drama', ' melodrama']",2004,"['wednesday', ' thursday']",MBC,7.67
+476,iris,"['action', ' romance', ' drama']",2013,"['wednesday', ' thursday']",KBS2,7.63
+477,irisii:newgeneration,"['action', ' romance', ' drama']",2013,"['wednesday', ' thursday']",KBS2,7.63
+479,itaewonclass,"['business', ' romance', ' life', ' drama']",2020,"['friday', ' saturday']","JTBC, NETFLIX",8.39
+480,item,"['action', ' thriller', ' mystery', ' supernatural']",2019,"['monday', ' tuesday']",MBC,7.65
+481,it'sbeautifulnow,"['romance', ' drama', ' family', ' melodrama']",2022,"['saturday', ' sunday']",KBS2,7.73
+482,it'smylife,"['business', ' romance', ' drama', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.69
+483,it'sokaytonotbeokay,"['psychological', ' comedy', ' romance', ' drama']",2020,"['saturday', ' sunday']","NETFLIX, TVN",8.86
+484,"it'sokay,that'slove","['psychological', ' comedy', ' romance', ' drama']",2014,"['wednesday', ' thursday']",SBS,8.43
+485,jangbo-riishere!,"['romance', ' drama', ' melodrama']",2014,"['saturday', ' sunday']",MBC,7.72
+487,jeongdo-jeon,"['action', ' thriller', ' historical', ' political']",2014,"['saturday', ' sunday']",KBS1,7.7
+488,jiwoon-soo'sstrokeofluck,"['comedy', ' romance', ' life']",2012,"['saturday', ' sunday']",TV CHOSUN,7.7
+489,jinxedatfirst,"['mystery', ' romance', ' fantasy', ' melodrama']",2022,"['wednesday', ' thursday']","KBS2, VIKI",7.63
+490,jirisan,"['thriller', ' mystery', ' drama', ' fantasy']",2021,"['saturday', ' sunday']","IQIYI, TVN",7.9
+491,jollywidows,"['comedy', ' romance', ' family']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+492,joseonexorcist,"['action', ' historical', ' drama', ' fantasy']",2021,"['monday', ' tuesday']","SBS, VIKI",7.71
+493,joseonsurvivalperiod,"['historical', ' romance', ' fantasy']",2019,"['saturday', ' sunday']",TV CHOSUN,7.68
+494,jtbcdramafesta,"['romance', ' life', ' family', ' melodrama']",2022,"['saturday', ' sunday']","JTBC, NETFLIX",8.2
+495,judgevs.judge,"['comedy', ' law', ' romance', ' drama']",2017,"['wednesday', ' thursday']",SBS,7.7
+496,jugglers,"['business', ' comedy', ' romance', ' drama']",2017,"['monday', ' tuesday']",KBS2,7.75
+497,jump,['sitcom'],1999,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+499,justdance,"['romance', ' life', ' drama', ' sports']",2018,"['monday', ' tuesday']",KBS2,7.73
+500,justice,"['thriller', ' mystery', ' law', ' drama']",2019,"['wednesday', ' thursday']",KBS2,7.71
+501,juvenilejustice,"['law', ' drama']",2022,['friday'],NETFLIX,8.13
+502,kairos,"['action', ' thriller', ' drama', ' sci-fi']",2020,"['monday', ' tuesday']",MBC,7.99
+503,myprettiestmoments,"['romance', ' drama', ' melodrama']",2020,"['wednesday', ' thursday']",MBC,7.57
+504,aseaofherown,"['drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+505,dalsoon'sspring,"['drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+506,dearmysister,"['historical', ' drama']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+507,eunhui,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+508,instillgreendays,"['historical', ' romance', ' drama', ' family']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+509,landofgold,"['historical', ' romance', ' drama', ' family', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+510,mymind'sflowerrain,"['romance', ' life', ' drama', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+511,samsaengi,"['romance', ' family', ' medical']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+512,single-mindeddandelion,"['romance', ' family']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+513,sunok,"['drama', ' family']",2006,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",KBS1,7.7
+514,thatsuninthesky,"['romance', ' drama', ' family', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+515,thestarsareshining,"['historical', ' romance', ' drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+516,killheel,"['thriller', ' drama']",2022,"['wednesday', ' thursday']",TVN,7.69
+517,killit,"['action', ' thriller', ' mystery', ' drama']",2019,"['saturday', ' sunday']",OCN,7.99
+518,"killme,healme","['psychological', ' comedy', ' romance', ' drama']",2015,"['wednesday', ' thursday']",MBC,8.54
+519,kimisagenius,"['drama', ' fantasy']",2019,['friday'],JTBC,7.7
+520,kimchicheesesmile,"['mystery', ' comedy', ' drama', ' sitcom']",2007,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+521,kimchifamily,"['food', ' mystery', ' romance', ' family']",2011,"['wednesday', ' thursday']",JTBC,7.69
+522,kingofambition,"['romance', ' drama', ' melodrama']",2013,"['monday', ' tuesday']",SBS,7.7
+523,kingdom,"['thriller', ' historical', ' horror', ' political']",2019,['friday'],NETFLIX,8.54
+524,kingmaker:thechangeofdestiny,"['historical', ' romance', ' drama', ' supernatural']",2020,"['saturday', ' sunday']",TV CHOSUN,7.71
+526,kkondaeintern,"['business', ' comedy', ' life', ' drama']",2020,"['wednesday', ' thursday']",MBC,7.75
+527,koreanpeninsula,"['action', ' military', ' romance', ' political']",2012,"['monday', ' tuesday']",TV CHOSUN,7.7
+528,l.u.c.a.:thebeginning,"['action', ' thriller', ' mystery', ' sci-fi']",2021,"['monday', ' tuesday']",TVN,7.58
+529,ladychadal-rae'slover,"['comedy', ' romance', ' family', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+530,landofwine,"['romance', ' drama', ' melodrama']",2003,"['wednesday', ' thursday']",SBS,7.7
+531,last,"['action', ' thriller', ' crime']",2015,"['friday', ' saturday']",JTBC,7.73
+532,latenightrestaurant,"['food', ' life', ' drama']",2015,['saturday'],SBS,7.7
+533,lawschool,"['mystery', ' law', ' crime', ' drama']",2021,"['wednesday', ' thursday']","JTBC, NETFLIX",8.35
+534,lawlesslawyer,"['action', ' thriller', ' law', ' romance']",2018,"['saturday', ' sunday']",TVN,8.12
+535,lawyers,"['thriller', ' law']",2005,"['monday', ' tuesday']",MBC,7.7
+536,left-handedwife,"['mystery', ' business', ' romance', ' melodrama']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+537,legalhigh,"['mystery', ' comedy', ' law', ' drama']",2019,"['friday', ' saturday']","JTBC, VIKI",7.69
+538,legendofhyangdan,"['historical', ' comedy', ' romance']",2007,"['monday', ' tuesday']",MBC,7.66
+539,lessthanevil,"['thriller', ' mystery', ' psychological', ' drama']",2018,"['monday', ' tuesday']",MBC,7.72
+540,letmebeyourknight,"['music', ' comedy', ' romance', ' drama']",2021,['sunday'],"IQIYI, SBS",7.75
+541,letmeintroduceher,"['mystery', ' psychological', ' romance', ' melodrama']",2018,['saturday'],SBS,7.69
+542,let'seat,"['food', ' comedy', ' romance', ' drama']",2013,['thursday'],TVN,7.8
+543,let'seat2,"['food', ' comedy', ' romance', ' drama']",2015,"['monday', ' tuesday']",TVN,7.77
+544,let'seat3,"['food', ' comedy', ' romance', ' life']",2018,"['monday', ' tuesday']",TVN,7.7
+545,levelup,"['business', ' comedy', ' romance']",2019,"['wednesday', ' thursday']","DRAMAX, MBN, VIKI",7.6
+546,leverage,"['action', ' mystery', ' comedy', ' crime']",2019,['sunday'],TV CHOSUN,7.84
+547,liargame,"['thriller', ' mystery', ' psychological', ' drama']",2014,"['monday', ' tuesday']",TVN,8.02
+548,lieafterlie,"['thriller', ' romance', ' melodrama']",2020,"['friday', ' saturday']",CHANNEL A,7.88
+549,lietome,"['comedy', ' romance']",2011,"['monday', ' tuesday']",SBS,7.56
+550,life,"['thriller', ' psychological', ' drama', ' medical']",2018,"['monday', ' tuesday']","JTBC, NETFLIX",7.85
+551,lifeisbeautiful,"['business', ' romance', ' drama']",2001,"['monday', ' tuesday']",KBS2,7.7
+552,lifeonmars,"['action', ' mystery', ' psychological', ' comedy']",2018,"['saturday', ' sunday']",OCN,8.26
+553,lightsandshadows,"['military', ' comedy', ' romance', ' political']",2011,"['monday', ' tuesday']",MBC,7.7
+554,lightonme,"['friendship', ' romance', ' youth', ' drama']",2021,"['tuesday', ' thursday']",VIKI,8.09
+555,likeableornot,"['romance', ' family']",2007,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+556,"link:eat,love,kill","['mystery', ' romance', ' drama', ' fantasy']",2022,"['monday', ' tuesday']",TVN,7.91
+557,listentolove,"['comedy', ' romance', ' life', ' drama']",2016,"['friday', ' saturday']",JTBC,7.76
+558,listentomyheart,"['comedy', ' romance', ' drama', ' family']",2011,"['saturday', ' sunday']",MBC,7.88
+560,live,"['comedy', ' romance', ' life', ' drama']",2018,"['saturday', ' sunday']","NETFLIX, TVN",8.16
+561,liveon,"['comedy', ' romance', ' youth', ' drama']",2020,['tuesday'],"JTBC, NAVER TV CAST, VIKI",7.95
+562,liveuptoyourname,"['historical', ' romance', ' medical', ' fantasy']",2017,"['saturday', ' sunday']",TVN,8.03
+563,liverordie,"['comedy', ' romance', ' drama', ' family']",2019,"['wednesday', ' thursday']",KBS2,7.7
+564,livingamongtherich,"['comedy', ' sitcom']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",JTBC,7.7
+565,livinginstyle,"['comedy', ' romance', ' life', ' drama']",2016,"['monday', ' tuesday']",KBS2,7.57
+566,lobbyist,"['action', ' thriller', ' romance', ' drama']",2007,"['wednesday', ' thursday']",SBS,7.69
+567,localhero,"['action', ' thriller', ' mystery', ' comedy']",2016,"['saturday', ' sunday']",OCN,7.63
+568,lookbackinanger,"['mystery', ' drama']",2000,"['monday', ' tuesday']",KBS2,7.7
+569,losstimelife,"['comedy', ' life', ' supernatural']",2015,['thursday'],NAVER TV CAST,7.69
+570,lost,"['life', ' drama', ' melodrama']",2021,"['saturday', ' sunday']","IQIYI, JTBC",7.85
+571,love&secret,"['romance', ' drama', ' fantasy', ' melodrama']",2014,['friday'],DRAMACUBE,7.67
+572,love(ft.marriageanddivorce),"['mystery', ' romance', ' drama']",2021,"['saturday', ' sunday']","NETFLIX, TV CHOSUN",7.53
+573,loveagain,"['romance', ' life', ' drama', ' family', ' melodrama']",2012,"['wednesday', ' thursday']",JTBC,7.7
+574,lovealarm,"['comedy', ' romance', ' youth', ' drama']",2019,['thursday'],NETFLIX,7.45
+575,lovealert,"['business', ' comedy', ' romance', ' melodrama']",2018,"['wednesday', ' thursday']","MBN, VIKI",7.52
+576,loveallplay,"['romance', ' drama', ' sports', ' melodrama']",2022,"['wednesday', ' thursday']",KBS2,8.0
+577,loveandobsession,"['drama', ' melodrama']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",KBS2,7.7
+578,lovecan'twait,"['comedy', ' romance']",2006,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+579,loveforathousandmore,"['music', ' comedy', ' romance', ' supernatural']",2016,"['monday', ' wednesday', ' friday']",NAVER TV CAST,7.66
+581,loveinherbag,"['romance', ' drama']",2013,"['monday', ' tuesday']",JTBC,7.58
+582,loveinsadness,"['romance', ' drama', ' melodrama']",2019,['saturday'],MBC,7.69
+583,loveinthemoonlight,"['historical', ' comedy', ' romance', ' drama']",2016,"['monday', ' tuesday']",KBS2,8.09
+584,lovemewhenyoucan,['romance'],2006,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+585,loveonarooftop,"['romance', ' drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.68
+586,loveplaylist,"['romance', ' life', ' youth', ' drama']",2017,"['thursday', ' saturday']","NAVER TV CAST, VLIVE",7.79
+587,loverain,"['romance', ' drama', ' family', ' melodrama']",2012,"['monday', ' tuesday']",KBS2,7.63
+588,lovereturns,"['romance', ' drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.68
+589,loverevolution,"['comedy', ' romance', ' youth', ' drama']",2020,"['thursday', ' sunday']","DAUM KAKAO TV, VIKI",7.89
+592,lovetotheend,"['business', ' romance', ' family', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+593,lovetwist,"['family', ' melodrama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+594,lovewithflaws,"['comedy', ' romance', ' life', ' drama']",2019,"['wednesday', ' thursday']",MBC,7.76
+595,loveholic,"['romance', ' drama']",2005,"['monday', ' tuesday']",KBS2,7.67
+596,lovelyhorribly,"['horror', ' comedy', ' romance', ' supernatural']",2018,"['monday', ' tuesday']",KBS2,7.5
+597,lovers,"['drama', ' family']",2001,"['monday', ' tuesday']",MBC,7.7
+598,loversinbloom,"['comedy', ' romance', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.69
+599,loversinparis,['romance'],2004,"['saturday', ' sunday']",SBS,7.64
+600,loversinprague,"['comedy', ' romance', ' drama']",2005,"['saturday', ' sunday']",SBS,7.68
+601,loversofhaeundae,"['comedy', ' romance']",2012,"['monday', ' tuesday']",KBS2,7.58
+602,loversofmusic,"['music', ' comedy', ' romance']",2014,"['monday', ' tuesday']",KBS2,7.53
+603,loversoftheredsky,"['historical', ' romance', ' drama', ' fantasy']",2021,"['monday', ' tuesday']","SBS, VIKI, VIUTV",7.91
+604,lovestruckinthecity,"['romance', ' life', ' youth', ' drama']",2020,"['tuesday', ' friday']","DAUM KAKAO TV, NETFLIX",7.89
+605,luckyromance,"['business', ' comedy', ' romance', ' drama']",2016,"['wednesday', ' thursday']",MBC,7.76
+606,maboy,"['comedy', ' romance', ' youth']",2012,['thursday'],TOONIVERSE,7.49
+607,maddog,"['action', ' thriller', ' mystery']",2017,"['wednesday', ' thursday']",KBS2,8.09
+608,madameantoine:thelovetherapist,"['psychological', ' comedy', ' romance']",2016,"['friday', ' saturday']",JTBC,7.49
+610,magickidmasuri,"['friendship', ' comedy', ' youth', ' fantasy']",2002,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+611,makeawomancry,"['romance', ' drama', ' family', ' melodrama']",2015,"['saturday', ' sunday']",MBC,7.7
+612,makeyourwish,"['romance', ' family']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+613,mama,"['romance', ' drama', ' melodrama']",2014,"['saturday', ' sunday']",MBC,7.73
+614,manfromtheequator,"['romance', ' drama', ' melodrama']",2012,"['wednesday', ' thursday']",KBS2,7.67
+615,maninaveil,"['business', ' romance', ' drama', ' family']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+616,maninthekitchen,"['food', ' romance', ' drama', ' family']",2017,"['saturday', ' sunday']",MBC,7.68
+617,mantoman,"['action', ' thriller', ' comedy', ' romance']",2017,"['friday', ' saturday']",JTBC,7.76
+618,manwhodiestolive,"['comedy', ' drama', ' family']",2017,"['wednesday', ' thursday']",MBC,7.69
+619,manhole,"['thriller', ' comedy', ' romance', ' fantasy']",2017,"['wednesday', ' thursday']",KBS2,7.59
+620,manny,"['comedy', ' romance']",2011,"['wednesday', ' thursday']",TVN,7.51
+621,marriagecontract,"['romance', ' drama', ' melodrama']",2016,"['saturday', ' sunday']",MBC,7.86
+622,"marriage,notdating","['comedy', ' romance', ' drama']",2014,"['friday', ' saturday']",TVN,8.0
+623,marryhimifyoudare,"['comedy', ' romance', ' supernatural']",2013,"['monday', ' tuesday']",KBS2,7.23
+624,marrymenow,"['romance', ' family', ' medical', ' melodrama']",2018,"['saturday', ' sunday']",KBS2,7.73
+625,marryingamillionaire,"['romance', ' drama']",2005,"['saturday', ' sunday']",SBS,7.65
+626,marryingmydaughtertwice,"['romance', ' drama', ' family', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+627,mask,"['thriller', ' psychological', ' romance', ' melodrama']",2015,"['wednesday', ' thursday']",SBS,7.93
+628,master'ssun,"['horror', ' comedy', ' romance', ' supernatural']",2013,"['wednesday', ' thursday']",SBS,8.36
+629,matrimonialchaos,"['comedy', ' romance', ' drama']",2018,"['monday', ' tuesday']",KBS2,7.73
+630,mayqueen,"['romance', ' drama', ' melodrama']",2012,"['saturday', ' sunday']",MBC,7.66
+631,"metoo,flower!","['psychological', ' comedy', ' romance', ' drama']",2011,"['wednesday', ' thursday']",MBC,7.61
+632,medicaltopteam,"['drama', ' medical']",2013,"['wednesday', ' thursday']",MBC,7.6
+633,melancholia,"['romance', ' school', ' drama', ' melodrama']",2021,"['wednesday', ' thursday']",TVN,7.74
+634,melodyoflove,"['music', ' romance', ' drama', ' family']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.67
+635,meloholic,"['mystery', ' psychological', ' romance', ' supernatural']",2017,"['monday', ' tuesday']","OCN, OKSUSU, VIKI",7.59
+636,meltingmesoftly,"['mystery', ' comedy', ' romance', ' sci-fi']",2019,"['saturday', ' sunday']",TVN,7.63
+637,memoriesofthealhambra,"['action', ' thriller', ' romance', ' sci-fi']",2018,"['saturday', ' sunday']","NETFLIX, TVN",8.0
+638,memorials,"['comedy', ' romance', ' drama', ' political']",2020,"['wednesday', ' thursday']",KBS2,7.89
+639,memorist,"['action', ' thriller', ' mystery', ' supernatural']",2020,"['wednesday', ' thursday']",TVN,8.11
+640,memory,"['law', ' romance', ' life', ' drama']",2016,"['friday', ' saturday']",TVN,7.78
+641,menaremen,"['comedy', ' romance', ' drama', ' fantasy']",2020,"['monday', ' tuesday']",KBS2,7.59
+643,merrymary,"['comedy', ' romance']",2007,"['wednesday', ' thursday']",MBC,7.7
+644,militaryprosecutordoberman,"['action', ' military', ' mystery', ' law']",2022,"['monday', ' tuesday']",TVN,7.96
+645,mimi,"['mystery', ' romance', ' supernatural']",2014,['friday'],MNET,7.58
+646,mina,"['romance', ' drama', ' melodrama']",2001,"['monday', ' tuesday']",KBS2,7.7
+647,mine,"['thriller', ' mystery', ' drama']",2021,"['saturday', ' sunday']","NETFLIX, TVN",7.96
+648,misaeng:incompletelife,"['friendship', ' business', ' life', ' drama']",2014,"['friday', ' saturday']",TVN,8.26
+649,missajumma,['drama'],2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+650,misskorea,"['comedy', ' romance', ' life', ' drama']",2013,"['wednesday', ' thursday']",MBC,7.63
+651,misslee,"['business', ' comedy', ' life', ' drama']",2019,"['wednesday', ' thursday']",TVN,7.69
+652,missmammamia,"['romance', ' drama', ' melodrama']",2015,"['wednesday', ' thursday']",KBS1,7.7
+653,missmermaid,"['romance', ' drama']",2002,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+654,missmonte-cristo,"['thriller', ' romance', ' drama', ' melodrama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.68
+655,misspandaandmr.hedgehog,"['food', ' comedy', ' romance', ' drama']",2012,"['saturday', ' sunday']",CHANNEL A,7.45
+656,missripley,"['romance', ' drama', ' melodrama']",2011,"['monday', ' tuesday']",MBC,7.49
+657,missing9,"['adventure', ' mystery', ' comedy', ' drama']",2017,"['wednesday', ' thursday']",MBC,7.57
+658,missingyou,"['romance', ' drama', ' melodrama']",2012,"['wednesday', ' thursday']",MBC,7.88
+659,missing:theotherside,"['thriller', ' mystery', ' supernatural']",2020,"['saturday', ' sunday']",OCN,7.99
+660,mistress,"['thriller', ' mystery', ' romance', ' drama']",2018,"['saturday', ' sunday']",OCN,7.77
+661,misty,"['thriller', ' mystery', ' romance', ' melodrama']",2018,"['friday', ' saturday']",JTBC,7.88
+662,model,"['romance', ' drama']",1997,"['wednesday', ' thursday']",SBS,7.7
+663,modernfarmer,"['comedy', ' romance', ' drama']",2014,"['saturday', ' sunday']",SBS,7.74
+664,momhasanaffair,"['romance', ' drama', ' family']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.69
+665,mom'sdeadupset,"['romance', ' drama', ' family']",2008,"['saturday', ' sunday']",KBS2,7.7
+666,moneyflower,"['business', ' law', ' romance', ' melodrama']",2017,['saturday'],MBC,7.84
+667,moneygame,"['mystery', ' business', ' drama', ' political']",2020,"['wednesday', ' thursday']",TVN,7.71
+668,moneyheist:korea–jointeconomicarea,"['action', ' thriller', ' mystery', ' crime']",2022,['friday'],NETFLIX,7.98
+669,monstar,"['music', ' romance', ' youth']",2013,['friday'],MNET,7.48
+670,monster,"['business', ' romance', ' crime', ' melodrama']",2016,"['monday', ' tuesday']",MBC,7.66
+671,monstrous,"['thriller', ' mystery', ' supernatural']",2022,['friday'],TVN,7.67
+672,monthlymagazinehome,"['business', ' comedy', ' romance', ' drama']",2021,"['wednesday', ' thursday']","IQIYI, JTBC",7.7
+673,moonembracingthesun,"['historical', ' romance', ' supernatural', ' political']",2012,"['wednesday', ' thursday']",MBC,8.21
+674,moonlovers:scarletheartryeo,"['historical', ' romance', ' fantasy', ' melodrama']",2016,"['monday', ' tuesday']",SBS,8.57
+675,moonshine,"['action', ' historical', ' comedy', ' romance']",2021,"['monday', ' tuesday']",KBS2,7.7
+676,moorimschool:sagaofthebrave,"['action', ' romance', ' drama', ' supernatural']",2016,"['monday', ' tuesday']",KBS2,7.64
+677,morethanamaid,"['historical', ' romance', ' drama']",2014,"['friday', ' saturday']",JTBC,7.72
+678,morethanfriends,"['comedy', ' romance', ' life', ' drama']",2020,"['friday', ' saturday']","JTBC, VIKI",7.58
+679,motherofmine,"['business', ' romance', ' life', ' melodrama']",2019,"['saturday', ' sunday']",KBS2,7.7
+680,mother'sgarden,"['romance', ' drama', ' family', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+681,mouse,"['thriller', ' mystery', ' psychological', ' sci-fi']",2021,"['wednesday', ' thursday']",TVN,8.38
+682,movetoheaven,"['life', ' drama', ' family']",2021,['friday'],NETFLIX,8.83
+684,mr.back,"['comedy', ' romance', ' drama', ' fantasy']",2014,"['wednesday', ' thursday']",MBC,7.61
+685,mr.duke,"['comedy', ' romance']",2000,"['wednesday', ' thursday']",MBC,7.7
+686,mr.queen,"['historical', ' comedy', ' romance', ' fantasy']",2020,"['saturday', ' sunday']",TVN,8.7
+687,mr.sunshine,"['military', ' historical', ' romance', ' melodrama']",2018,"['saturday', ' sunday']","NETFLIX, TVN",8.54
+688,mrs.cop,"['action', ' mystery']",2015,"['monday', ' tuesday']",SBS,7.73
+689,mrs.cop2,"['mystery', ' drama']",2016,"['saturday', ' sunday']",SBS,7.68
+690,ms.hammurabi,"['law', ' romance', ' life', ' drama']",2018,"['monday', ' tuesday']",JTBC,7.92
+691,"ms.ma,nemesis","['thriller', ' mystery', ' drama']",2018,['saturday'],SBS,7.71
+692,ms.perfect,"['mystery', ' comedy']",2017,"['monday', ' tuesday']",KBS2,7.67
+693,myabsoluteboyfriend,"['comedy', ' romance', ' drama', ' fantasy']",2019,"['wednesday', ' thursday']","SBS, VIKI",7.57
+694,mybeautifulbride,"['action', ' mystery', ' romance', ' crime']",2015,"['saturday', ' sunday']",OCN,7.74
+695,mybelovedsister,"['romance', ' life', ' drama', ' family', ' melodrama']",2006,"['saturday', ' sunday']",MBC,7.7
+696,"mycontractedhusband,mr.oh","['comedy', ' romance', ' drama', ' melodrama']",2018,['saturday'],MBC,7.68
+697,mycountry:thenewage,"['action', ' historical', ' romance', ' drama']",2019,"['friday', ' saturday']","JTBC, NETFLIX",8.01
+698,mydangerouswife,"['thriller', ' psychological', ' drama']",2020,"['monday', ' tuesday']",MBN,7.71
+699,mydaughtertheflower,"['romance', ' family']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+700,"mydaughter,geumsa-wol","['romance', ' drama', ' family']",2015,"['saturday', ' sunday']",MBC,7.67
+701,mydearcat,"['mystery', ' comedy', ' romance', ' drama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.68
+702,myfairlady,"['romance', ' drama']",2003,"['wednesday', ' thursday']",SBS,7.69
+703,myfatherisstrange,"['comedy', ' romance', ' drama', ' family']",2017,"['saturday', ' sunday']",KBS2,8.19
+704,myfellowcitizens!,"['comedy', ' romance', ' crime', ' political']",2019,"['monday', ' tuesday']",KBS2,7.7
+706,myfirstlove,"['mystery', ' comedy', ' romance', ' fantasy']",2018,"['monday', ' tuesday']",OCN,7.73
+707,myfirsttime,"['comedy', ' romance', ' life']",2018,"['friday', ' monday', ' wednesday']","NAVER TV CAST, VLIVE",7.7
+708,mygoldenlife,"['business', ' comedy', ' romance', ' drama']",2017,"['saturday', ' sunday']",KBS2,7.76
+709,myhealinglove,"['romance', ' life', ' drama', ' family']",2018,['sunday'],MBC,7.7
+710,myhearttwinkletwinkle,"['romance', ' drama', ' family', ' melodrama']",2015,"['saturday', ' sunday']",SBS,7.67
+711,myhololove,"['romance', ' drama', ' sci-fi', ' melodrama']",2020,['friday'],NETFLIX,8.06
+712,myhorribleboss,"['business', ' comedy', ' life', ' drama']",2016,"['friday', ' saturday']",JTBC,7.7
+713,myhusbandgotafamily,"['comedy', ' romance', ' life', ' drama']",2012,"['saturday', ' sunday']",KBS2,7.72
+714,myhusband'swoman,"['romance', ' life', ' drama', ' melodrama']",2007,"['monday', ' tuesday']",SBS,7.7
+715,mykidsgivemeaheadache,"['drama', ' family']",2012,"['saturday', ' sunday']",JTBC,7.7
+716,"mylawyer,mr.jo","['mystery', ' comedy', ' law']",2016,"['monday', ' tuesday']",KBS2,7.73
+717,"mylawyer,mr.jo2:crimeandpunishment","['mystery', ' comedy', ' law', ' drama']",2019,"['monday', ' tuesday']",KBS2,7.7
+718,myliberationnotes,"['romance', ' life', ' family', ' melodrama']",2022,"['saturday', ' sunday']","JTBC, NETFLIX",8.2
+719,mylittlebaby,"['comedy', ' romance', ' family']",2016,['saturday'],MBC,7.66
+720,mylovebymyside,"['romance', ' family']",2011,"['saturday', ' sunday']",SBS,7.69
+721,mylovefromthestar,"['comedy', ' romance', ' drama', ' supernatural']",2013,"['wednesday', ' thursday']",SBS,8.5
+722,mylovepatzzi,"['friendship', ' romance', ' drama']",2002,"['monday', ' tuesday']",MBC,7.61
+723,mylovelygirl,"['music', ' romance', ' drama']",2014,"['wednesday', ' thursday']",SBS,7.24
+724,mymister,"['psychological', ' life', ' drama']",2018,"['wednesday', ' thursday']",TVN,8.69
+725,mymotherisadaughter-in-law,"['comedy', ' drama', ' melodrama']",2015,"['monday', ' wednesday', ' thursday', ' friday', ' tuesday']",SBS,7.7
+726,myname,"['action', ' thriller', ' mystery', ' crime']",2021,['friday'],NETFLIX,8.48
+728,myonlyone,"['comedy', ' romance', ' drama', ' family']",2018,"['saturday', ' sunday']",KBS2,7.69
+729,myroommateisagumiho,"['comedy', ' romance', ' fantasy']",2021,"['wednesday', ' thursday']","IQIYI, TVN",8.23
+730,myrosylife,"['romance', ' melodrama']",2005,"['wednesday', ' thursday']",KBS2,7.71
+732,mysassygirl,"['historical', ' comedy', ' romance']",2017,"['monday', ' tuesday']",SBS,7.75
+733,mysecrethotel,"['mystery', ' comedy', ' romance', ' drama']",2014,"['monday', ' tuesday']",TVN,7.55
+734,mysecretromance,"['comedy', ' romance', ' life', ' drama']",2017,"['monday', ' tuesday']",OCN,7.62
+735,mysecretterrius,"['action', ' mystery', ' comedy', ' romance']",2018,"['wednesday', ' thursday']",MBC,8.05
+736,myspringdays,"['romance', ' family', ' melodrama']",2014,"['wednesday', ' thursday']",MBC,7.69
+737,mystrangehero,"['mystery', ' comedy', ' romance', ' youth']",2018,"['monday', ' tuesday']",SBS,7.95
+738,mytooperfectsons,"['comedy', ' romance', ' family']",2009,"['saturday', ' sunday']",KBS2,7.7
+739,myunfamiliarfamily,"['life', ' drama']",2020,"['monday', ' tuesday']",TVN,7.87
+740,myunfortunateboyfriend,"['romance', ' drama']",2015,"['friday', ' saturday']",MBC DRAMANET,7.54
+741,mysteriouspersonalshopper,"['friendship', ' mystery', ' family', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+742,mysticpop-upbar,"['mystery', ' comedy', ' drama', ' fantasy']",2020,"['wednesday', ' thursday']","JTBC, NETFLIX",8.33
+743,naeil'scantabile,"['music', ' comedy', ' romance']",2014,"['monday', ' tuesday']",KBS2,7.62
+744,nakedfireman,"['action', ' thriller', ' mystery', ' drama']",2017,"['wednesday', ' thursday']",KBS2,7.73
+745,navillera,"['life', ' drama']",2021,"['monday', ' tuesday']","NETFLIX, TVN",8.48
+746,nevertwice,"['comedy', ' romance', ' drama', ' family']",2019,['saturday'],MBC,7.78
+747,nevertheless,"['romance', ' life', ' youth', ' drama', ' mature']",2021,['saturday'],"JTBC, NETFLIX",7.55
+748,newheart,"['romance', ' medical']",2007,"['wednesday', ' thursday']",MBC,7.7
+749,nicewitch,"['comedy', ' romance', ' drama', ' melodrama']",2018,['saturday'],SBS,7.74
+750,nightlight,"['business', ' drama', ' political']",2016,"['monday', ' tuesday']",MBC,7.64
+752,nomatterwhat,"['romance', ' drama', ' family']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+753,"no,thankyou","['comedy', ' romance', ' life', ' drama']",2020,['saturday'],DAUM KAKAO TV,7.7
+754,"noble,mylove","['comedy', ' romance']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' sunday']",NAVER TV CAST,7.63
+755,nobodyknows,"['thriller', ' mystery', ' drama', ' melodrama']",2020,"['monday', ' tuesday']",SBS,7.95
+756,nokduflower,"['historical', ' romance', ' war', ' political']",2019,"['friday', ' saturday']",SBS,7.77
+757,nonstop,"['comedy', ' romance', ' drama', ' sitcom']",2000,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+758,"now,wearebreakingup","['romance', ' drama', ' melodrama']",2021,"['friday', ' saturday']","SBS, VIUTV",7.39
+759,ohfeelyoung,"['comedy', ' romance', ' drama']",2004,"['monday', ' tuesday']",KBS2,7.69
+760,ohmybaby,"['comedy', ' romance', ' drama', ' medical']",2020,"['wednesday', ' thursday']",TVN,7.74
+761,ohmyghost,"['thriller', ' comedy', ' romance', ' supernatural']",2015,"['friday', ' saturday']",TVN,8.2
+762,ohmyladylord,"['comedy', ' romance', ' fantasy', ' melodrama']",2021,"['wednesday', ' thursday']","IQIYI, MBC",7.43
+763,ohmyvenus,"['comedy', ' law', ' romance', ' life']",2015,"['monday', ' tuesday']",KBS2,8.2
+764,oh!mylady,"['comedy', ' drama', ' family', ' melodrama']",2016,"['wednesday', ' thursday']",KBS2,7.79
+765,"oh,themysterious","['thriller', ' mystery', ' romance', ' drama']",2017,"['monday', ' tuesday']",SBS,7.67
+766,ohlalacouple,"['comedy', ' romance', ' drama', ' supernatural']",2012,"['monday', ' tuesday']",KBS2,7.58
+767,ojakgyofamily,"['comedy', ' romance', ' drama', ' family', ' melodrama']",2011,"['saturday', ' sunday']",KBS2,7.82
+768,onair,"['romance', ' drama']",2008,"['wednesday', ' thursday']",SBS,7.68
+769,onthevergeofinsanity,"['comedy', ' life', ' drama']",2021,"['wednesday', ' thursday']",MBC,7.73
+770,onthewaytotheairport,"['romance', ' drama', ' melodrama']",2016,"['wednesday', ' thursday']",KBS2,7.73
+771,onceagain,"['comedy', ' romance', ' life', ' drama']",2020,"['saturday', ' sunday']",KBS2,7.99
+772,onefineday,['drama'],2014,"['saturday', ' sunday']",SBS,7.7
+773,onemorehappyending,"['comedy', ' romance', ' youth', ' drama']",2016,"['wednesday', ' thursday']",MBC,7.8
+774,onemoretime,"['music', ' romance', ' youth', ' drama']",2016,['wednesday'],"BS JAPAN, NETFLIX",7.56
+775,oneordinaryday,"['thriller', ' mystery', ' law', ' crime']",2021,"['saturday', ' sunday']",VIUTV,8.0
+776,onespringnight,"['romance', ' life', ' drama', ' melodrama']",2019,"['thursday', ' wednesday']","MBC, NETFLIX",8.17
+778,onethewoman,"['mystery', ' comedy', ' romance', ' drama']",2021,"['friday', ' saturday']",SBS,7.86
+780,onewarmword,"['life', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday']",SBS,7.66
+781,onewell-raiseddaughter,"['business', ' romance', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.67
+782,onlylove,"['romance', ' family']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+783,onlyyou,['drama'],1997,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",SBS,7.7
+784,operationproposal,"['romance', ' drama', ' sports', ' fantasy']",2012,"['wednesday', ' thursday']",TV CHOSUN,7.57
+785,orangemarmalade,"['historical', ' romance', ' drama', ' supernatural']",2015,['friday'],KBS2,7.14
+786,ourbelovedsummer,"['romance', ' youth', ' drama']",2021,"['monday', ' tuesday']","NETFLIX, SBS",8.53
+787,ourblues,"['romance', ' life', ' drama', ' melodrama']",2022,"['saturday', ' sunday']","NETFLIX, TVN",8.13
+788,ourgap-soon,"['comedy', ' romance', ' family']",2016,"['saturday', ' sunday']",SBS,7.63
+789,overtherainbow,"['music', ' romance', ' youth']",2006,"['wednesday', ' thursday']",MBC,7.65
+791,padampadam,"['romance', ' life', ' melodrama', ' supernatural']",2011,"['monday', ' tuesday']",JTBC,7.7
+792,papa,"['romance', ' drama', ' family', ' melodrama']",1996,"['wednesday', ' thursday']",KBS2,7.7
+793,partnersforjustice,"['thriller', ' mystery', ' law', ' medical']",2018,"['monday', ' tuesday']",MBC,7.92
+794,passionatelove,"['business', ' romance', ' family', ' melodrama']",2013,"['saturday', ' sunday']",SBS,7.66
+795,pegasusmarket,"['business', ' comedy', ' drama']",2019,['friday'],TVN,7.78
+796,perfume,"['comedy', ' romance', ' fantasy']",2019,"['monday', ' tuesday']",KBS2,7.77
+798,phantom,"['thriller', ' mystery']",2012,"['wednesday', ' thursday']",SBS,7.97
+799,phoenix,"['romance', ' drama']",2004,"['monday', ' tuesday']",MBC,7.68
+800,phoenix2020,"['business', ' romance', ' drama', ' melodrama']",2020,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.68
+801,piano,"['romance', ' melodrama']",2001,"['wednesday', ' thursday']",SBS,7.69
+802,piedpiper,"['action', ' thriller', ' mystery', ' drama']",2016,"['monday', ' tuesday']",TVN,7.72
+803,pinklipstick,"['romance', ' drama', ' melodrama']",2010,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.68
+804,pinocchio,"['thriller', ' mystery', ' comedy', ' romance']",2014,"['wednesday', ' thursday']",SBS,8.31
+805,player,"['action', ' thriller', ' mystery', ' comedy']",2018,"['saturday', ' sunday']",OCN,7.98
+806,"pleasecomeback,soon-ae","['comedy', ' romance']",2006,"['wednesday', ' thursday']",SBS,7.69
+807,pleasedon'tdatehim,"['comedy', ' romance', ' drama', ' sci-fi']",2020,['tuesday'],"MBC, MBC EVERY1",7.73
+808,plusnineboys,"['romance', ' family']",2014,"['friday', ' saturday']",TVN,7.73
+809,policeuniversity,"['mystery', ' comedy', ' romance', ' drama']",2021,"['monday', ' tuesday']",KBS2,7.79
+810,"poong,thejoseonpsychiatrist","['historical', ' mystery', ' romance', ' medical']",2022,"['monday', ' tuesday']",TVN,7.72
+811,poseidon,"['action', ' military', ' mystery', ' romance']",2011,"['monday', ' tuesday']",KBS2,7.57
+812,possessed,"['horror', ' comedy', ' romance', ' supernatural']",2019,"['wednesday', ' thursday']","NETFLIX, OCN",7.6
+813,potatostar2013qr3,"['romance', ' drama', ' fantasy', ' sitcom']",2013,"['monday', ' tuesday', ' wednesday', ' thursday']",TVN,7.69
+814,potsofgold,"['business', ' romance', ' family']",2013,"['saturday', ' sunday']",MBC,7.65
+815,preciousfamily,"['romance', ' drama', ' family']",2004,"['saturday', ' sunday']",KBS2,7.7
+816,prideandprejudice,"['mystery', ' law', ' romance']",2014,"['monday', ' tuesday']",MBC,7.67
+817,priest,"['thriller', ' horror', ' romance', ' drama']",2018,"['saturday', ' sunday']",OCN,7.74
+818,primeminister&i,"['comedy', ' romance', ' drama', ' family']",2013,"['monday', ' tuesday']",KBS2,7.5
+819,princessaurora,"['comedy', ' romance', ' drama', ' family']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+821,prisonplaybook,"['comedy', ' crime', ' life', ' drama']",2017,"['wednesday', ' thursday']","NETFLIX, TVN",8.64
+822,privatelives,"['thriller', ' mystery', ' romance', ' crime']",2020,"['wednesday', ' thursday']","JTBC, NETFLIX",7.62
+823,protecttheboss,"['business', ' comedy', ' romance', ' melodrama']",2011,"['wednesday', ' thursday']",SBS,7.64
+824,psychopathdiary,"['thriller', ' mystery', ' comedy', ' crime']",2019,"['wednesday', ' thursday']",TVN,8.04
+825,punch,"['thriller', ' drama', ' political']",2014,"['monday', ' tuesday']",SBS,7.76
+826,purelove,"['comedy', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+827,purepumpkinflower,"['drama', ' family']",2010,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+829,queenandi,"['historical', ' comedy', ' romance', ' fantasy']",2012,"['wednesday', ' thursday']",TVN,8.2
+830,queenforsevendays,"['historical', ' romance', ' melodrama', ' political']",2017,"['wednesday', ' thursday']",KBS2,7.96
+831,queenofmystery,"['action', ' mystery', ' comedy', ' drama']",2017,"['wednesday', ' thursday']",KBS2,7.86
+832,queenofmystery2,"['action', ' mystery', ' comedy', ' drama']",2018,"['wednesday', ' thursday']",KBS2,7.74
+833,queen:loveandwar,"['historical', ' romance', ' fantasy', ' political']",2019,"['saturday', ' sunday']","TV CHOSUN, VIKI",7.75
+834,quizofgod,"['mystery', ' drama', ' medical']",2011,['friday'],OCN,7.8
+835,racketboys,"['comedy', ' life', ' drama', ' sports']",2021,"['monday', ' tuesday']","NETFLIX, SBS",8.24
+836,radiantoffice,"['business', ' comedy', ' romance', ' drama']",2017,"['wednesday', ' thursday']",MBC,7.67
+837,radioromance,"['business', ' comedy', ' romance']",2018,"['monday', ' tuesday']",KBS2,7.64
+838,rainorshine,"['psychological', ' romance', ' melodrama']",2017,"['monday', ' tuesday']",JTBC,8.39
+839,recordofyouth,"['romance', ' life', ' youth', ' drama']",2020,"['monday', ' tuesday']","NETFLIX, TVN",7.56
+840,redshoes,"['romance', ' drama', ' family', ' melodrama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.68
+841,reflectionofyou,"['thriller', ' mystery', ' drama', ' melodrama']",2021,"['wednesday', ' thursday']","JTBC, NETFLIX",7.68
+842,remarriage&desires,"['drama', ' melodrama']",2022,['friday'],NETFLIX,7.81
+843,remember,"['romance', ' drama']",2002,"['wednesday', ' thursday']",MBC,7.7
+844,replay:themoment,"['music', ' romance', ' life', ' drama']",2021,"['tuesday', ' friday']",DAUM KAKAO TV,7.65
+845,replyseries,"['comedy', ' romance', ' life', ' youth']",2015,"['friday', ' saturday']",TVN,8.82
+846,reply1988,"['comedy', ' romance', ' life', ' youth']",2015,"['friday', ' saturday']",TVN,8.82
+847,reply1994,"['comedy', ' romance', ' drama', ' sports']",2013,"['friday', ' saturday']",TVN,7.95
+848,reply1997,"['comedy', ' romance', ' life', ' family']",2012,['tuesday'],TVN,8.34
+849,reset,"['mystery', ' drama']",2014,['sunday'],OCN,7.66
+850,resurrection,"['thriller', ' romance', ' drama']",2005,"['wednesday', ' thursday']",KBS2,7.7
+851,return,"['thriller', ' mystery', ' law']",2018,"['wednesday', ' thursday']",SBS,7.72
+852,reunitedworlds,"['romance', ' drama', ' melodrama', ' supernatural']",2017,"['wednesday', ' thursday']",SBS,7.67
+853,reverse,"['romance', ' drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+854,revolutionarylove,"['business', ' comedy', ' romance', ' drama']",2017,"['saturday', ' sunday']",TVN,7.6
+855,revolutionarysisters,"['thriller', ' comedy', ' romance', ' drama']",2021,"['saturday', ' sunday']",KBS2,7.69
+856,richman,"['business', ' comedy', ' romance', ' melodrama']",2018,"['wednesday', ' thursday']","DRAMAX, VIKI",7.55
+857,righteouslove,"['romance', ' life', ' drama', ' family']",2014,"['monday', ' tuesday']",TVN,7.64
+858,riskyromance,"['comedy', ' romance', ' medical']",2018,"['monday', ' tuesday']",MBC,7.67
+859,riverwherethemoonrises,"['action', ' historical', ' romance', ' political']",2021,"['monday', ' tuesday']","KBS2, VIKI, VIUTV",7.76
+860,robber,"['romance', ' crime', ' drama', ' melodrama']",2008,"['wednesday', ' thursday']",SBS,7.67
+861,romance,"['comedy', ' romance', ' drama']",2002,"['wednesday', ' thursday']",MBC,7.68
+862,romanceisabonusbook,"['friendship', ' business', ' comedy', ' romance']",2019,"['saturday', ' sunday']","NETFLIX, TVN",8.11
+863,romancetown,"['comedy', ' romance', ' drama', ' family']",2011,"['wednesday', ' thursday']",KBS2,7.41
+864,rooftopprince,"['historical', ' comedy', ' romance', ' fantasy']",2012,"['wednesday', ' thursday']",SBS,8.08
+865,rookiehistoriangoohae-ryung,"['historical', ' comedy', ' romance', ' drama']",2019,"['wednesday', ' thursday']","MBC, NETFLIX",8.09
+867,roomno.9,"['mystery', ' drama', ' fantasy']",2018,"['saturday', ' sunday']",TVN,7.72
+868,rosemansion,"['thriller', ' mystery']",2022,['friday'],TVN,7.7
+869,rosylovers,"['romance', ' family']",2014,"['saturday', ' sunday']",MBC,7.67
+870,royalsecretagent,"['historical', ' mystery', ' comedy', ' romance']",2020,"['monday', ' tuesday']","IQIYI, KBS2",7.81
+871,rubyring,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+872,rubyrubylove,"['comedy', ' romance', ' fantasy']",2017,"['wednesday', ' thursday']",ON STYLE,7.58
+873,rugal,"['action', ' thriller', ' crime', ' sci-fi']",2020,"['saturday', ' sunday']","NETFLIX, OCN",7.66
+874,rulerofyourownworld,"['romance', ' drama']",2002,"['wednesday', ' thursday']",MBC,7.7
+875,runon,"['romance', ' life', ' drama', ' sports']",2020,"['wednesday', ' thursday']","JTBC, NETFLIX",8.17
+876,"run,jang-mi","['food', ' romance']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+877,rusticperiod,"['thriller', ' historical', ' drama']",2002,"['monday', ' tuesday']",SBS,7.7
+878,sadlovestory,"['romance', ' life', ' drama', ' melodrama']",2005,['wednesday'],MBC,7.72
+879,"saimdang,memoirofcolors","['historical', ' mystery', ' romance', ' melodrama']",2017,"['wednesday', ' thursday']",SBS,7.74
+880,salamanderguruandtheshadows,"['comedy', ' drama', ' sitcom']",2012,['friday'],SBS,7.61
+882,sandglass,"['action', ' historical', ' romance', ' political']",1995,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.71
+883,saveme,"['action', ' thriller', ' mystery', ' drama']",2017,"['saturday', ' sunday']",OCN,8.33
+884,saveme2,"['thriller', ' mystery', ' psychological']",2019,"['wednesday', ' thursday']",OCN,7.74
+885,savethefamily,"['romance', ' drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.69
+886,savethelastdanceforme,"['romance', ' drama']",2004,"['saturday', ' sunday']",SBS,7.7
+887,sayitwithyoureyes,"['romance', ' drama']",2000,['sunday'],MBC,7.7
+888,scentofawoman,"['comedy', ' romance', ' life', ' melodrama']",2011,"['saturday', ' sunday']",SBS,7.86
+889,school2013,"['mystery', ' school', ' youth', ' drama']",2012,"['monday', ' tuesday']",KBS2,8.06
+890,school2017,"['mystery', ' comedy', ' romance', ' youth']",2017,"['monday', ' tuesday']",KBS2,8.08
+891,school2021,"['romance', ' youth', ' drama', ' melodrama']",2021,"['wednesday', ' thursday']","KBS2, VIKI",7.81
+892,whoareyou:school2015,"['mystery', ' romance', ' youth', ' drama']",2015,"['monday', ' tuesday']",KBS2,8.1
+893,schoolgirldetectives,"['mystery', ' life', ' youth', ' drama']",2014,"['tuesday', ' wednesday']",JTBC,7.69
+894,search,"['military', ' thriller', ' mystery', ' horror']",2020,"['saturday', ' sunday']",OCN,7.9
+895,search:www,"['business', ' comedy', ' romance', ' drama']",2019,"['wednesday', ' thursday']",TVN,8.19
+896,second20s,"['comedy', ' romance', ' life', ' drama']",2015,"['friday', ' saturday']",TVN,7.9
+897,secondtolastlove,"['romance', ' life', ' drama']",2016,"['saturday', ' sunday']",SBS,7.66
+898,secret,"['romance', ' drama']",2000,['wednesday'],MBC,7.7
+899,secretaffair,"['music', ' romance', ' drama', ' melodrama']",2014,"['monday', ' tuesday']",JTBC,7.74
+900,secretboutique,"['romance', ' drama', ' melodrama', ' political']",2019,"['wednesday', ' thursday']",SBS,7.7
+901,secretdoor,"['historical', ' mystery', ' drama', ' political']",2014,"['monday', ' tuesday']",SBS,7.7
+902,secrethealer,"['historical', ' romance', ' medical', ' fantasy']",2016,"['friday', ' saturday']",JTBC,7.7
+903,secretlove,"['romance', ' drama', ' fantasy', ' melodrama']",2014,['friday'],DRAMACUBE,7.67
+904,secretmother,"['thriller', ' mystery', ' psychological', ' drama']",2018,['saturday'],SBS,7.72
+905,secretroyalinspector&joy,"['historical', ' mystery', ' comedy', ' romance']",2021,"['monday', ' tuesday']",TVN,7.77
+906,secretsandlies,"['business', ' romance', ' melodrama']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.69
+907,secretsofwomen,"['drama', ' family', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+908,sellyourhauntedhouse,"['thriller', ' mystery', ' comedy', ' fantasy']",2021,"['wednesday', ' thursday']",KBS2,8.05
+910,seoul1945,"['historical', ' drama']",2006,"['saturday', ' sunday']",KBS1,7.7
+911,"seoyoung,mydaughter","['comedy', ' romance', ' family', ' melodrama']",2012,"['saturday', ' sunday']",KBS2,7.74
+912,sheknowseverything,"['mystery', ' psychological', ' crime', ' drama']",2020,"['wednesday', ' thursday']",MBC,7.66
+913,shewaspretty,"['comedy', ' romance', ' drama']",2015,"['wednesday', ' thursday']",MBC,8.04
+914,shewouldneverknow,"['business', ' comedy', ' romance', ' drama']",2021,"['monday', ' tuesday']","IQIYI, JTBC",7.93
+915,shineorgocrazy,"['historical', ' romance', ' supernatural', ' political']",2015,"['monday', ' tuesday']",MBC,7.7
+916,shiningromance,"['romance', ' family']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+917,shoppingkinglouie,"['comedy', ' romance', ' life', ' drama']",2016,"['wednesday', ' thursday']",MBC,8.07
+918,short,"['comedy', ' romance', ' life', ' sports']",2018,"['monday', ' tuesday']","OCN, VIKI",7.71
+919,shouldwekissfirst?,"['comedy', ' romance', ' life', ' melodrama']",2018,"['monday', ' tuesday']",SBS,7.72
+920,showwindow:thequeen'shouse,"['thriller', ' mystery', ' romance', ' drama']",2021,"['monday', ' tuesday']","CHANNEL A, VIKI",7.7
+921,sh**tingstars,"['comedy', ' romance', ' drama']",2022,"['friday', ' saturday']",TVN,8.15
+922,signal,"['thriller', ' mystery', ' sci-fi']",2016,"['friday', ' saturday']",TVN,8.69
+923,sindon,"['historical', ' drama', ' political']",2005,"['saturday', ' sunday']",MBC,7.7
+924,singledadinlove,"['romance', ' family', ' melodrama']",2008,"['monday', ' tuesday']",KBS2,7.67
+925,sistersofthesea,['romance'],2005,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",MBC,7.7
+926,sisyphus:themyth,"['action', ' thriller', ' mystery', ' sci-fi']",2021,"['wednesday', ' thursday']","JTBC, NETFLIX",7.76
+927,sixflyingdragons,"['action', ' historical', ' drama', ' political']",2015,"['monday', ' tuesday']",SBS,8.14
+928,sketch,"['action', ' thriller', ' mystery', ' supernatural']",2018,"['friday', ' saturday']",JTBC,7.72
+929,skycastle,"['mystery', ' psychological', ' drama']",2018,"['friday', ' saturday']",JTBC,8.58
+930,smileagain,"['romance', ' drama', ' sports', ' melodrama']",2006,"['wednesday', ' thursday']",SBS,7.67
+931,"smile,mom","['romance', ' family']",2010,"['saturday', ' sunday']",SBS,7.7
+932,snowflower,"['romance', ' drama']",2006,"['monday', ' tuesday']",SBS,7.69
+933,snowdrop,"['romance', ' drama', ' melodrama', ' political']",2021,"['saturday', ' sunday']",JTBC,8.2
+934,soimarriedtheanti-fan,"['music', ' comedy', ' romance']",2021,"['friday', ' saturday']","AMAZON PRIME, IQIYI, NAVER TV CAST, VIKI, VLIVE",7.9
+935,sonotworthit,"['comedy', ' romance', ' youth', ' sitcom']",2021,['friday'],NETFLIX,7.8
+936,solomon'sperjury,"['friendship', ' law', ' school', ' drama']",2016,"['friday', ' saturday']",JTBC,7.88
+938,someday,['romance'],2006,['friday'],OCN,7.69
+939,somethingabout1%,"['comedy', ' romance', ' drama']",2016,"['wednesday', ' thursday']",DRAMAX,8.05
+940,somethingabout1percent,"['comedy', ' romance', ' drama']",2016,"['wednesday', ' thursday']",DRAMAX,8.05
+943,somethingintherain,"['romance', ' life', ' drama', ' melodrama']",2018,"['friday', ' saturday']","JTBC, NETFLIX",7.92
+944,songgot:thepiercer,"['life', ' drama']",2015,"['saturday', ' sunday']",JTBC,7.71
+945,soulmechanic,"['comedy', ' romance', ' drama', ' medical']",2020,"['wednesday', ' thursday']",KBS2,7.72
+947,specialaffairsteamten,"['action', ' mystery', ' psychological']",2011,['friday'],OCN,7.84
+948,speciallaborinspector,"['action', ' business', ' comedy', ' drama']",2019,"['monday', ' tuesday']",MBC,7.76
+949,splendidpolitics,"['historical', ' drama', ' political']",2015,"['monday', ' tuesday']",MBC,7.69
+950,sponsor,"['thriller', ' romance', ' drama']",2022,"['wednesday', ' thursday']","MBN, VIKI",7.66
+951,spotlight,"['mystery', ' business', ' law', ' political']",2008,"['wednesday', ' thursday']",MBC,7.69
+952,springday,"['romance', ' drama']",2005,"['saturday', ' sunday']",SBS,7.68
+953,springturnstospring,"['business', ' comedy', ' drama', ' fantasy']",2019,"['thursday', ' wednesday']",MBC,7.73
+954,spy,"['thriller', ' romance', ' crime', ' political']",2015,['friday'],KBS2,7.64
+955,spymyung-wol,"['action', ' comedy', ' romance']",2011,"['monday', ' tuesday']",KBS2,7.5
+956,squad38,"['mystery', ' comedy', ' crime', ' drama']",2016,"['friday', ' saturday']",OCN,7.87
+957,squidgame,"['action', ' thriller', ' mystery', ' drama']",2021,['friday'],NETFLIX,8.4
+958,stainedglass,"['romance', ' drama']",2004,"['wednesday', ' thursday']",SBS,7.68
+959,standby,"['business', ' comedy', ' sitcom']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+960,starinmyheart,"['romance', ' drama', ' family']",1997,"['monday', ' tuesday']",MBC,7.7
+961,starsfallingfromthesky,"['thriller', ' mystery', ' romance', ' drama']",2018,"['thursday', ' wednesday']",TVN,8.1
+962,start-up,"['business', ' comedy', ' romance', ' youth']",2020,"['saturday', ' sunday']","NETFLIX, TVN",8.02
+963,star'secho,"['music', ' romance']",2004,['friday'],"FUJI TV, MBC",7.69
+964,star'slover,"['comedy', ' romance', ' drama', ' supernatural']",2013,"['wednesday', ' thursday']",SBS,8.5
+965,stealheart,"['comedy', ' romance', ' crime', ' drama']",2014,"['monday', ' tuesday']",JTBC,7.7
+966,still17,"['music', ' mystery', ' comedy', ' romance']",2018,"['monday', ' tuesday']",SBS,8.31
+967,stillyou,"['romance', ' life', ' family']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+968,stranger,"['thriller', ' mystery', ' law', ' drama']",2017,"['saturday', ' sunday']","NETFLIX, TVN",8.52
+969,stronggirlbong-soon,"['action', ' comedy', ' romance', ' supernatural']",2017,"['friday', ' saturday']",JTBC,8.62
+970,strongestdeliveryman,"['business', ' comedy', ' romance', ' life']",2017,"['friday', ' saturday']",KBS2,7.81
+971,suits,"['action', ' business', ' law', ' drama']",2018,"['wednesday', ' thursday']",KBS2,7.91
+972,sunlightpoursdown,"['romance', ' drama']",2004,"['wednesday', ' thursday']",SBS,7.7
+973,sunnyagaintomorrow,"['romance', ' drama', ' family']",2018,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+974,superdaddyyeol,"['comedy', ' romance', ' drama', ' medical']",2015,"['friday', ' saturday']",TVN,7.68
+975,superrookie,"['action', ' comedy', ' drama']",2006,"['wednesday', ' thursday']",SBS,7.69
+976,surgeonbongdal-hee,"['romance', ' drama', ' medical', ' melodrama']",2007,"['wednesday', ' thursday']",SBS,7.7
+977,suspiciouspartner,"['thriller', ' comedy', ' law', ' romance']",2017,"['wednesday', ' thursday']",SBS,8.21
+978,swedenlaundry,"['comedy', ' romance', ' drama', ' supernatural']",2014,['friday'],MBC EVERY1,7.6
+979,sweetbuns,"['comedy', ' romance']",2004,['sunday'],MBC,7.7
+980,sweetenemy,"['drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.68
+981,sweethome,"['horror', ' drama', ' sci-fi', ' supernatural']",2020,['friday'],NETFLIX,8.51
+982,"sweethome,sweethoney","['romance', ' drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.68
+983,sweetmunchies,"['food', ' comedy', ' romance', ' life']",2020,"['monday', ' tuesday']","JTBC, VIKI",7.59
+984,sweetrevenge,"['comedy', ' romance', ' youth', ' fantasy']",2017,['friday'],OKSUSU,7.81
+985,sweetrevenge2,"['thriller', ' mystery', ' romance', ' supernatural']",2018,"['monday', ' tuesday']",XTVN,7.78
+986,sweetspy,"['action', ' comedy', ' romance']",2005,"['monday', ' tuesday']",MBC,7.67
+987,sweetstrangerandme,"['comedy', ' romance', ' life', ' drama']",2016,"['monday', ' tuesday']",KBS2,7.57
+988,"sweet,savagefamily","['action', ' comedy', ' romance', ' family']",2015,"['wednesday', ' thursday']",MBC,7.68
+989,switch,"['thriller', ' mystery', ' comedy', ' law']",2018,"['wednesday', ' thursday']",SBS,7.75
+990,syndrome,"['romance', ' drama', ' medical']",2012,"['monday', ' tuesday']",JTBC,7.69
+991,taejowanggeon,['historical'],2000,"['saturday', ' sunday']",KBS1,7.7
+992,"takecareofus,captain","['romance', ' drama']",2012,"['wednesday', ' thursday']",SBS,7.61
+993,taleoffairy,"['comedy', ' romance', ' drama', ' fantasy']",2018,"['tuesday', ' monday']",TVN,7.49
+994,taleoftheninetailed,"['thriller', ' horror', ' romance', ' fantasy']",2020,"['wednesday', ' thursday']",TVN,8.25
+995,tastylife,['family'],2012,"['saturday', ' sunday']",SBS,7.7
+996,taxidriver,"['action', ' thriller', ' crime', ' drama']",2021,"['friday', ' saturday']",SBS,8.4
+997,tazza,"['action', ' adventure', ' thriller', ' romance']",2008,"['monday', ' tuesday']",SBS,7.69
+998,teambulldog:off-dutyinvestigation,"['action', ' mystery', ' comedy', ' drama']",2020,"['saturday', ' sunday']",OCN,7.83
+999,tearsofheaven,"['romance', ' drama']",2014,"['saturday', ' sunday']",MBN,7.7
+1000,tearsofthedragon,['historical'],1996,"['saturday', ' sunday']",KBS1,7.7
+1001,tellmewhatyousaw,"['thriller', ' mystery']",2020,"['saturday', ' sunday']",OCN,7.89
+1002,temperatureoflove,"['food', ' comedy', ' romance', ' life']",2017,"['monday', ' tuesday']",SBS,7.65
+1003,temptation,"['romance', ' drama', ' melodrama']",2014,"['monday', ' tuesday']",SBS,7.62
+1004,temptationofwife,"['romance', ' drama', ' family', ' melodrama']",2008,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.69
+1005,tempted,"['romance', ' youth', ' drama', ' melodrama']",2018,"['monday', ' tuesday']",MBC,7.7
+1006,terroir,"['comedy', ' romance', ' drama']",2008,"['monday', ' tuesday']",SBS,7.69
+1007,thankyou,"['comedy', ' romance', ' family', ' medical']",2007,"['wednesday', ' thursday']",MBC,7.79
+1008,"thatwinter,thewindblows","['romance', ' crime', ' melodrama']",2013,"['wednesday', ' thursday']",SBS,7.9
+1010,theall-roundwife,"['drama', ' family', ' melodrama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+1011,thebanker,"['business', ' drama', ' political']",2019,"['wednesday', ' thursday']",MBC,7.7
+1012,thebeautyinside,"['comedy', ' romance', ' melodrama', ' supernatural']",2018,"['monday', ' tuesday']",JTBC,8.23
+1013,thebirthofafamily,"['romance', ' drama', ' family', ' melodrama']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1014,thebladeandpetal,"['action', ' historical', ' romance', ' drama']",2013,"['wednesday', ' thursday']",KBS2,7.64
+1015,thebrideofhabaek,"['comedy', ' romance', ' drama', ' fantasy']",2017,"['monday', ' tuesday']",TVN,7.46
+1016,thechaser,"['action', ' thriller', ' mystery']",2012,"['monday', ' tuesday']",SBS,7.7
+1017,theclinicformarriedcouples:loveandwar,"['romance', ' drama', ' family']",1999,['friday'],KBS2,7.7
+1018,thecursed,"['thriller', ' mystery', ' horror', ' supernatural']",2020,"['monday', ' tuesday']",TVN,7.74
+1019,thecrownedclown,"['historical', ' romance', ' melodrama', ' political']",2019,"['monday', ' tuesday']",TVN,8.04
+1020,thedawnoftheempire,"['historical', ' drama', ' political']",2002,"['saturday', ' sunday']",KBS1,7.7
+1022,thedeviljudge,"['mystery', ' law', ' crime', ' drama']",2021,"['saturday', ' sunday']",TVN,8.39
+1023,thedoctors,"['comedy', ' romance', ' drama', ' medical']",2016,"['monday', ' tuesday']",SBS,7.86
+1024,theeldest,"['drama', ' family']",2013,"['saturday', ' sunday']",JTBC,7.7
+1025,theemperor:ownerofthemask,"['historical', ' romance', ' drama', ' political']",2017,"['wednesday', ' thursday']",MBC,7.84
+1027,theendoftheworld,"['mystery', ' drama', ' medical']",2013,"['saturday', ' sunday']",JTBC,7.7
+1028,thefamilyiscoming,"['comedy', ' romance', ' family']",2015,"['saturday', ' sunday']",SBS,7.67
+1029,thefierypriest,"['action', ' mystery', ' comedy', ' crime']",2019,"['friday', ' saturday']",SBS,8.2
+1031,thefugitiveofjoseon,"['thriller', ' historical', ' romance', ' medical']",2013,"['wednesday', ' thursday']",KBS2,7.69
+1032,thegame:towardszero,"['thriller', ' mystery', ' psychological', ' supernatural']",2020,"['wednesday', ' thursday']",MBC,7.73
+1033,thegentlemenofwolgyesutailorshop,"['comedy', ' romance', ' life', ' drama']",2016,"['saturday', ' sunday']",KBS2,7.73
+1034,theghostdetective,"['thriller', ' mystery', ' horror', ' supernatural']",2018,"['wednesday', ' thursday']",KBS2,7.73
+1035,thegooddetective,"['action', ' thriller', ' mystery', ' drama']",2020,"['monday', ' tuesday']",JTBC,7.91
+1036,thegoodwife,"['law', ' romance', ' drama', ' political']",2016,"['friday', ' saturday']",TVN,7.77
+1037,"thegreatking,sejong",['historical'],2008,"['saturday', ' sunday']",KBS1,7.71
+1038,thegreatmerchant,"['historical', ' romance', ' drama']",2010,"['saturday', ' sunday']",KBS1,7.7
+1039,thegreatseer,"['historical', ' romance', ' supernatural', ' war']",2012,"['wednesday', ' thursday']",SBS,7.67
+1040,thegreatshamangadoo-shim,"['mystery', ' romance', ' youth', ' supernatural']",2021,['friday'],"DAUM KAKAO TV, VIKI",7.79
+1041,thegreatshow,"['comedy', ' drama', ' family', ' political']",2019,"['monday', ' tuesday']",TVN,7.72
+1042,thegreatestlove,"['business', ' comedy', ' romance']",2011,"['wednesday', ' thursday']",MBC,7.95
+1043,thegreatestmarriage,"['comedy', ' romance', ' family', ' melodrama']",2014,['saturday'],TV CHOSUN,7.58
+1044,theguardians,"['action', ' thriller', ' mystery', ' law', ' crime']",2017,"['monday', ' tuesday']",MBC,7.99
+1045,theguest,"['thriller', ' mystery', ' horror', ' supernatural']",2018,"['wednesday', ' thursday']",OCN,8.25
+1046,theheirs,"['comedy', ' romance', ' drama', ' melodrama']",2013,"['wednesday', ' thursday']",SBS,7.61
+1047,thehymnofdeath,"['music', ' historical', ' romance', ' melodrama']",2018,"['monday', ' tuesday']","NETFLIX, SBS",8.06
+1048,theidlemermaid,"['comedy', ' romance', ' drama', ' fantasy']",2014,['thursday'],TVN,7.48
+1049,theidolmasterkr,['music'],2017,['friday'],SBS PLUS,7.69
+1050,theinnocentman,"['romance', ' drama', ' family', ' melodrama']",2012,"['wednesday', ' thursday']",KBS2,7.99
+1051,thejingbirok:amemoirofimjinwar,"['historical', ' drama', ' political']",2015,"['saturday', ' sunday']",KBS1,7.7
+1052,thek2,"['action', ' thriller', ' psychological', ' romance']",2016,"['friday', ' saturday']",TVN,8.11
+1053,thekiller'sshoppinglist,"['thriller', ' mystery', ' comedy']",2022,"['wednesday', ' thursday']",TVN,7.78
+1054,theking2hearts,"['military', ' comedy', ' romance', ' drama']",2012,"['wednesday', ' thursday']",MBC,8.04
+1055,thekingandi,"['historical', ' drama', ' political']",2007,"['monday', ' tuesday']",SBS,7.69
+1056,thekingandthequeen,['historical'],1998,"['saturday', ' sunday']",KBS1,7.7
+1057,thekinginlove,"['historical', ' romance', ' drama', ' political']",2017,"['monday', ' tuesday']","MBC, VIKI",7.73
+1058,thekingofchudongpalace,"['historical', ' drama']",1983,"['thursday', ' friday']",MBC,7.7
+1059,thekingofdramas,"['business', ' comedy', ' romance', ' drama']",2012,"['monday', ' tuesday']",SBS,7.74
+1060,thekingofpigs,"['thriller', ' mystery', ' drama']",2022,['friday'],TVN,7.84
+1061,"thekingoftears,leebang-won","['thriller', ' historical', ' drama', ' political']",2021,"['saturday', ' sunday']",KBS1,7.7
+1062,theking:eternalmonarch,"['mystery', ' romance', ' drama', ' sci-fi']",2020,"['friday', ' saturday']","NETFLIX, SBS",8.03
+1063,theking'saffection,"['historical', ' romance', ' drama']",2021,"['monday', ' tuesday']","KBS2, NETFLIX",8.07
+1064,"theking'sdaughter,soobaek-hyang","['historical', ' romance', ' drama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.77
+1065,theking'sdoctor,"['historical', ' romance', ' drama', ' medical']",2012,"['monday', ' tuesday']",MBC,7.71
+1066,theking'sface,"['action', ' thriller', ' historical', ' romance']",2014,"['wednesday', ' thursday']",KBS2,7.68
+1067,theladyindignity,"['thriller', ' mystery', ' romance', ' drama']",2017,"['friday', ' saturday']",JTBC,7.78
+1068,thelastempress,"['action', ' thriller', ' mystery', ' romance']",2018,"['wednesday', ' thursday']",SBS,7.85
+1069,thelastmatch,"['romance', ' school', ' sports']",1994,"['monday', ' tuesday']",MBC,7.7
+1071,thelegendofthebluesea,"['comedy', ' romance', ' drama', ' fantasy']",2016,"['wednesday', ' thursday']",SBS,8.3
+1072,theliarandhislover,"['music', ' comedy', ' romance', ' youth']",2017,"['monday', ' tuesday']",TVN,7.57
+1073,thelieswithin,"['thriller', ' mystery', ' drama']",2019,"['saturday', ' sunday']","NETFLIX, OCN",7.78
+1074,thelightinyoureyes,"['romance', ' life', ' drama', ' melodrama']",2019,"['monday', ' tuesday']","JTBC, VIKI",7.93
+1075,thelover,"['comedy', ' romance', ' life']",2015,['thursday'],MNET,7.8
+1076,themaninthemask,"['action', ' comedy', ' romance', ' drama']",2015,"['wednesday', ' thursday']",KBS2,7.64
+1077,themasterofrevenge,"['food', ' mystery', ' drama', ' melodrama']",2016,"['wednesday', ' thursday']",KBS2,7.69
+1078,themerchant,"['historical', ' drama']",1976,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday', ' saturday']",MBC,7.7
+1079,themerchant:gaekju2015,"['historical', ' business', ' melodrama', ' political']",2015,"['wednesday', ' thursday']",KBS2,7.68
+1081,themiraclewemet,"['comedy', ' romance', ' fantasy', ' melodrama']",2018,"['monday', ' tuesday']",KBS2,7.75
+1082,themostbeautifulgoodbye,"['life', ' family', ' melodrama']",2017,"['saturday', ' sunday']",TVN,7.72
+1083,themusical,"['music', ' romance', ' drama', ' melodrama']",2011,['friday'],SBS,7.45
+1085,thenoblesse,"['romance', ' drama', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",JTBC,7.7
+1086,theoneandonly,"['mystery', ' romance', ' drama', ' melodrama']",2021,"['monday', ' tuesday']",JTBC,7.75
+1087,thepackage,"['adventure', ' comedy', ' romance', ' life']",2017,"['friday', ' saturday']",JTBC,7.86
+1088,thepenthouse:warinlife,"['thriller', ' mystery', ' drama']",2020,"['monday', ' tuesday']",SBS,8.46
+1090,theprincess'man,"['action', ' historical', ' romance', ' political']",2011,"['wednesday', ' thursday']",KBS2,8.09
+1091,theproducers,"['comedy', ' romance', ' drama']",2015,"['friday', ' saturday']",KBS2,7.64
+1092,thepromise,"['romance', ' family', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+1093,thequeenofoffice,"['business', ' comedy', ' romance', ' drama']",2013,"['monday', ' tuesday']",KBS2,7.68
+1094,thequeen'sclassroom,"['school', ' youth', ' drama']",2013,"['wednesday', ' thursday']",MBC,7.73
+1095,therebel,"['action', ' thriller', ' historical', ' romance']",2017,"['monday', ' tuesday']",MBC,7.99
+1096,theredsleeve,"['historical', ' romance', ' drama', ' melodrama']",2021,"['friday', ' saturday']","MBC, VIKI",8.39
+1097,thereputablefamily,"['historical', ' drama']",2010,"['saturday', ' sunday']",KBS1,7.7
+1098,thereturnofhwanggeum-bok,"['drama', ' family', ' melodrama']",2015,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1099,therichson,"['romance', ' drama', ' melodrama']",2018,['sunday'],MBC,7.69
+1100,theroadhome,"['romance', ' family']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+1101,theroad:thetragedyofone,"['thriller', ' mystery', ' drama']",2021,"['wednesday', ' thursday']",TVN,7.68
+1102,theroyalgambler,"['action', ' historical', ' comedy', ' drama']",2016,"['monday', ' tuesday']",SBS,7.72
+1103,therunningmates:humanrights,"['mystery', ' law', ' drama']",2019,"['wednesday', ' thursday']",OCN,7.69
+1104,thescandal,"['thriller', ' romance', ' drama', ' melodrama']",2013,"['saturday', ' sunday']",MBC,7.7
+1105,thescholarwhowalksthenight,"['historical', ' mystery', ' romance', ' fantasy']",2015,"['wednesday', ' thursday']",MBC,7.76
+1106,theschoolnursefiles,"['mystery', ' horror', ' comedy', ' supernatural']",2020,['friday'],NETFLIX,7.55
+1107,thesecondhusband,"['romance', ' drama', ' family', ' melodrama']",2021,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+1108,thesecrethouse,"['thriller', ' romance', ' drama']",2022,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+1109,thesecretlifeofmysecretary,"['business', ' comedy', ' romance', ' drama']",2019,"['monday', ' tuesday']",SBS,7.98
+1110,thesecretlovers,"['romance', ' drama']",2005,"['monday', ' tuesday']",MBC,7.69
+1111,thesecretofbirth,"['romance', ' drama', ' family', ' melodrama']",2013,"['saturday', ' sunday']",SBS,7.68
+1112,thesecretofmylove,"['romance', ' drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+1113,thesilentsea,"['thriller', ' mystery', ' horror', ' sci-fi']",2021,['friday'],NETFLIX,7.99
+1114,thesmilehasleftyoureyes,"['thriller', ' mystery', ' romance', ' drama']",2018,"['thursday', ' wednesday']",TVN,8.1
+1115,thesoundofmagic,"['music', ' psychological', ' drama', ' fantasy']",2022,['friday'],NETFLIX,8.13
+1116,thesoundofyourheart,"['comedy', ' family', ' sitcom']",2016,"['monday', ' thursday']",NAVER TV CAST,7.96
+1117,thespieswholovedme,"['action', ' mystery', ' comedy', ' romance']",2020,"['wednesday', ' thursday']","IQIYI, MBC",7.68
+1118,thesuspicioushousekeeper,"['mystery', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday']",SBS,7.7
+1119,thetaleofnokdu,"['action', ' historical', ' comedy', ' romance']",2019,"['monday', ' tuesday']",KBS2,8.18
+1120,thethirdcharm,"['food', ' comedy', ' romance', ' drama']",2018,"['friday', ' saturday']",JTBC,7.38
+1121,thethirdhospital,"['comedy', ' life', ' drama', ' medical']",2012,"['wednesday', ' thursday']",TVN,7.69
+1122,thethreemusketeers,"['action', ' adventure', ' historical', ' romance']",2014,['sunday'],TVN,7.75
+1123,thetimewewerenotinlove,"['comedy', ' romance', ' youth']",2015,"['saturday', ' sunday']",SBS,7.61
+1124,theuncannycounter,"['action', ' mystery', ' drama', ' supernatural']",2020,"['saturday', ' sunday']","NETFLIX, OCN",8.55
+1125,theundateables,"['comedy', ' romance', ' life', ' drama']",2018,"['wednesday', ' thursday']",SBS,7.66
+1126,thevampiredetective,"['friendship', ' thriller', ' mystery', ' supernatural']",2016,['sunday'],OCN,7.63
+1127,theveil,"['action', ' thriller', ' mystery', ' crime']",2021,"['friday', ' saturday']",MBC,7.91
+1128,thevillage:achiara'ssecret,"['thriller', ' mystery', ' horror', ' supernatural']",2015,"['wednesday', ' thursday']",SBS,7.74
+1129,thevirtualbride,"['comedy', ' romance', ' drama', ' family']",2015,"['monday', ' tuesday']",KBS2,7.63
+1130,thevirus,"['thriller', ' mystery', ' medical']",2013,['friday'],OCN,7.68
+1131,theweddingscheme,"['comedy', ' romance', ' family']",2012,"['monday', ' tuesday']",TVN,7.63
+1132,thewindblows,"['romance', ' drama', ' melodrama']",2019,"['monday', ' tuesday']",JTBC,7.71
+1133,thewitch'sdiner,"['psychological', ' life', ' fantasy', ' supernatural']",2021,['friday'],"NAVER TV CAST, TVN",7.88
+1134,theworldofthemarried,"['thriller', ' romance', ' drama', ' melodrama']",2020,"['friday', ' saturday']",JTBC,8.19
+1136,thirty-nine,"['romance', ' life', ' drama']",2022,"['wednesday', ' thursday']","JTBC, NETFLIX",7.88
+1137,thisismylove,"['romance', ' life', ' drama']",2015,"['friday', ' saturday']",JTBC,7.74
+1138,thousandyearsoflove,"['music', ' comedy', ' romance', ' supernatural']",2016,"['monday', ' wednesday', ' friday']",NAVER TV CAST,7.66
+1139,threecolorfantasy,"['music', ' romance', ' sci-fi', ' supernatural']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",NAVER TV CAST,7.83
+1140,queenofthering,"['comedy', ' romance', ' drama', ' fantasy']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",NAVER TV CAST,7.88
+1141,romancefulloflife,"['comedy', ' romance', ' drama', ' fantasy']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",NAVER TV CAST,7.63
+1142,theuniverse'sstar,"['music', ' romance', ' sci-fi', ' supernatural']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",NAVER TV CAST,7.83
+1143,threedays,"['action', ' thriller', ' drama']",2014,"['wednesday', ' thursday']",SBS,7.7
+1144,threefriends,"['comedy', ' sitcom']",2000,['monday'],MBC,7.7
+1145,threesisters,"['drama', ' family']",2010,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1146,thricemarriedwoman,"['drama', ' family']",2013,"['saturday', ' sunday']",SBS,7.66
+1147,throughthedarkness,"['thriller', ' mystery', ' crime', ' drama']",2022,"['friday', ' saturday']",SBS,8.0
+1148,times,"['thriller', ' mystery', ' fantasy', ' political']",2021,"['saturday', ' sunday']",OCN,7.7
+1149,tomybeloved,['romance'],2012,"['wednesday', ' thursday']",JTBC,7.67
+1150,tothebeautifulyou,"['comedy', ' romance', ' drama', ' sports']",2012,"['wednesday', ' thursday']",SBS,7.62
+1151,today'swebtoon,"['business', ' comedy', ' life', ' drama']",2022,"['friday', ' saturday']","SBS, VIKI, VIUTV",7.76
+1152,"toji,theland","['romance', ' drama']",2004,"['saturday', ' sunday']",SBS,7.7
+1153,tokyosunshower,['romance'],2008,"['monday', ' tuesday']",SBS,7.69
+1154,tomorrow,"['action', ' thriller', ' drama', ' fantasy']",2022,"['friday', ' saturday']","MBC, NETFLIX",8.53
+1156,"tomorrow,withyou","['romance', ' drama', ' melodrama', ' supernatural']",2017,"['friday', ' saturday']",TVN,7.89
+1158,topstaru-back,"['comedy', ' romance', ' drama']",2018,['friday'],TVN,7.69
+1159,touch,"['business', ' comedy', ' romance', ' drama']",2020,"['friday', ' saturday']","CHANNEL A, VIKI",7.64
+1160,touchyourheart,"['comedy', ' law', ' romance', ' drama']",2019,"['wednesday', ' thursday']",TVN,8.19
+1161,tracer,"['action', ' thriller', ' mystery', ' drama']",2022,"['friday', ' saturday']",MBC,7.71
+1162,train,"['thriller', ' mystery', ' sci-fi']",2020,"['saturday', ' sunday']",OCN,8.0
+1163,trap,"['thriller', ' mystery', ' psychological', ' drama']",2019,"['saturday', ' sunday']",OCN,7.72
+1164,triangle,"['action', ' business', ' romance', ' drama']",2014,"['monday', ' tuesday']",MBC,7.7
+1167,truebeauty,"['comedy', ' romance', ' youth', ' drama']",2020,"['wednesday', ' thursday']",TVN,8.21
+1169,tunnel,"['thriller', ' mystery', ' sci-fi', ' fantasy']",2017,"['saturday', ' sunday']",OCN,8.35
+1170,twelvenights,"['romance', ' life', ' melodrama']",2018,['friday'],"CHANNEL A, VIKI",7.66
+1171,twocops,"['mystery', ' comedy', ' romance', ' supernatural']",2017,"['monday', ' tuesday']",MBC,7.78
+1172,twomothers,"['romance', ' drama', ' family', ' melodrama']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+1173,twoweeks,"['action', ' thriller', ' mystery', ' drama']",2013,"['wednesday', ' thursday']",MBC,8.11
+1174,twowives,"['romance', ' drama', ' melodrama']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1175,twowomen'sroom,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1176,uglyalert,"['business', ' romance', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.82
+1177,uglymissyoung-ae,"['comedy', ' romance', ' life']",2016,"['monday', ' tuesday']",TVN,7.7
+1178,unaskedfamily,"['comedy', ' romance', ' drama', ' family']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.7
+1179,uncle,"['music', ' comedy', ' drama']",2021,"['saturday', ' sunday']","TV CHOSUN, VIKI",7.74
+1180,uncontrollablyfond,"['comedy', ' romance', ' drama', ' melodrama']",2016,"['wednesday', ' thursday']",KBS2,8.01
+1181,undercover,"['action', ' thriller', ' mystery', ' crime']",2021,"['friday', ' saturday']",JTBC,7.73
+1182,unkindladies,"['comedy', ' romance', ' drama']",2015,"['wednesday', ' thursday']",KBS2,7.69
+1183,unknownwoman,"['drama', ' family', ' melodrama']",2017,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.69
+1184,unstoppablemarriage,"['comedy', ' romance', ' family']",2007,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS2,7.7
+1185,untiltheazaleablooms,['drama'],1998,"['monday', ' tuesday']",KBS2,7.7
+1186,untouchable,"['action', ' thriller', ' mystery', ' business']",2017,"['friday', ' saturday']",JTBC,7.68
+1187,vagabond,"['action', ' thriller', ' mystery', ' crime']",2019,"['friday', ' saturday']","NETFLIX, SBS",8.32
+1188,vampireidol,"['comedy', ' drama', ' supernatural', ' sitcom']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBN,7.68
+1189,vampireprosecutor,"['action', ' mystery', ' drama', ' supernatural']",2011,['sunday'],OCN,7.9
+1190,vincenzo,"['comedy', ' law', ' crime', ' drama']",2021,"['saturday', ' sunday']","NETFLIX, TVN",8.82
+1191,vip,"['mystery', ' business', ' romance', ' melodrama']",2019,"['monday', ' tuesday']",SBS,7.79
+1192,voice,"['thriller', ' mystery', ' psychological']",2017,"['saturday', ' sunday']",OCN,8.21
+1193,w,"['thriller', ' comedy', ' romance', ' fantasy']",2016,"['wednesday', ' thursday']",MBC,8.42
+1194,wang'sfamily,"['comedy', ' romance', ' drama', ' family']",2013,"['saturday', ' sunday']",KBS2,7.68
+1195,wantataste?,"['romance', ' drama', ' family']",2019,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.69
+1196,wanted,"['mystery', ' drama', ' melodrama']",2016,"['wednesday', ' thursday']",SBS,7.7
+1197,warofmoney,"['business', ' romance']",2007,"['wednesday', ' thursday']",SBS,7.68
+1198,warmandcozy,"['food', ' comedy', ' romance']",2015,"['wednesday', ' thursday']",MBC,7.6
+1199,warriorbaekdong-soo,"['action', ' historical', ' romance', ' martial arts']",2011,"['monday', ' tuesday']",SBS,7.84
+1200,wasitlove?,"['comedy', ' romance', ' drama']",2020,"['wednesday', ' thursday']","JTBC, NETFLIX",7.51
+1201,watcher,"['thriller', ' mystery', ' drama', ' political']",2019,"['saturday', ' sunday']",OCN,7.9
+1202,wearedatingnow,"['friendship', ' romance', ' life', ' drama']",2002,"['wednesday', ' thursday']",SBS,7.67
+1203,webrokeup,"['music', ' romance', ' youth']",2015,"['monday', ' wednesday', ' friday']",NAVER TV CAST,7.59
+1204,webtoonherotoondrashow,['family'],2016,['thursday'],MBC EVERY1,7.7
+1205,wedding,"['romance', ' drama']",2005,['monday'],KBS2,7.68
+1206,wednesday3:30pm,"['comedy', ' romance', ' life', ' youth']",2017,['friday'],OKSUSU,7.8
+1207,weightliftingfairykimbok-joo,"['comedy', ' romance', ' life', ' sports']",2016,"['wednesday', ' thursday']",MBC,8.7
+1208,welcome,"['action', ' historical', ' romance', ' fantasy']",2022,"['saturday', ' sunday']","NETFLIX, TVN",8.19
+1209,welcome2life,"['comedy', ' law', ' romance', ' fantasy']",2019,"['monday', ' tuesday']",MBC,7.85
+1210,welcomeraintomylife,"['comedy', ' romance', ' drama', ' family']",2012,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1211,welcometowaikiki,"['comedy', ' romance', ' life', ' drama']",2018,"['monday', ' tuesday']",JTBC,8.37
+1212,welcometowaikiki2,"['comedy', ' romance', ' life', ' drama']",2019,"['monday', ' tuesday']","JTBC, VIKI",7.96
+1213,welcometoweddinghell,"['romance', ' life', ' drama']",2022,"['monday', ' tuesday', ' wednesday']","DAUM KAKAO TV, NETFLIX",7.65
+1214,westpalace,"['historical', ' drama', ' political']",1995,"['monday', ' tuesday']",KBS2,7.7
+1215,whathappenstomyfamily?,"['comedy', ' romance', ' drama', ' family']",2014,"['saturday', ' sunday']",KBS2,7.88
+1216,what'sfordinner?,"['romance', ' family']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+1217,what'sup,"['music', ' romance', ' school']",2011,"['saturday', ' sunday']",MBN,7.68
+1218,what'supfox,"['comedy', ' romance', ' life']",2006,"['wednesday', ' thursday']",MBC,7.61
+1219,what'swrongwithsecretarykim,"['friendship', ' business', ' comedy', ' romance']",2018,"['wednesday', ' thursday']",TVN,8.42
+1220,whenamanfallsinlove,"['romance', ' drama']",2013,"['wednesday', ' thursday']",MBC,7.4
+1221,wheniwasthemostbeautiful,"['romance', ' drama', ' melodrama']",2020,"['wednesday', ' thursday']",MBC,7.57
+1222,whenmyloveblooms,"['romance', ' life', ' drama', ' family']",2020,"['saturday', ' sunday']",TVN,7.73
+1223,whenthecamelliablooms,"['thriller', ' comedy', ' romance', ' drama']",2019,"['wednesday', ' thursday']","KBS2, NETFLIX",8.26
+1224,whenthedevilcallsyourname,"['music', ' comedy', ' drama', ' fantasy']",2019,"['wednesday', ' thursday']",TVN,7.78
+1225,whentheweatherisfine,"['romance', ' life', ' drama', ' melodrama']",2020,"['monday', ' tuesday']","JTBC, VIKI",8.07
+1226,whenwomenpowdertwice,['romance'],2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",JTBC,7.7
+1227,wherestarsland,"['comedy', ' romance', ' drama', ' melodrama']",2018,"['monday', ' tuesday']","SBS, VIKI",7.82
+1228,whereyoureyeslinger,"['romance', ' youth', ' drama', ' melodrama']",2020,['friday'],VIKI,8.0
+1229,whichstarareyoufrom,"['comedy', ' romance', ' life', ' drama']",2006,"['monday', ' tuesday']",MBC,7.66
+1230,whileyouweresleeping,"['romance', ' drama', ' melodrama']",2011,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1231,whisper,"['thriller', ' law', ' romance', ' drama']",2017,"['monday', ' tuesday']",SBS,7.7
+1232,whitenights3.98,"['action', ' drama']",1998,"['monday', ' tuesday']",SBS,7.7
+1233,whoareyou?,"['mystery', ' horror', ' romance', ' supernatural']",2013,"['monday', ' tuesday']",TVN,7.7
+1234,whyher,"['mystery', ' law', ' romance', ' melodrama']",2022,"['friday', ' saturday']","SBS, VIKI, VIUTV",7.9
+1235,wifereturns,"['romance', ' life', ' drama']",2009,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1236,wildromance,"['comedy', ' romance', ' sports']",2012,"['wednesday', ' thursday']",KBS2,7.62
+1237,witchatcourt,"['mystery', ' law', ' drama']",2017,"['monday', ' tuesday']",KBS2,7.87
+1238,witch'slove,"['comedy', ' romance', ' drama', ' fantasy']",2018,"['wednesday', ' thursday']","MBN, VIKI",7.65
+1239,wokoflove,"['food', ' comedy', ' romance', ' drama']",2018,"['monday', ' tuesday']",SBS,7.87
+1240,womanof9.9billion,"['thriller', ' mystery', ' drama']",2019,"['wednesday', ' thursday']",KBS2,7.69
+1241,"womanofmatchlessbeauty,parkjung-geum",['romance'],2008,"['saturday', ' sunday']",MBC,7.7
+1242,womanwithasuitcase,"['law', ' drama', ' melodrama']",2016,"['monday', ' tuesday']",MBC,7.68
+1243,womeninthesun,"['romance', ' drama', ' melodrama']",2008,"['wednesday', ' thursday']",KBS2,7.69
+1244,wonderfuldays,"['romance', ' drama', ' family']",2014,"['saturday', ' sunday']",KBS2,7.68
+1245,wonderfulmama,"['romance', ' drama', ' family', ' melodrama']",2013,"['saturday', ' sunday']",SBS,7.68
+1246,woorithevirgin,"['comedy', ' romance', ' drama', ' melodrama']",2022,"['monday', ' tuesday']",SBS,7.35
+1247,"worklater,drinknow","['comedy', ' life', ' drama']",2021,['friday'],TVN,7.94
+1248,workingmom,"['romance', ' family']",2008,"['wednesday', ' thursday']",SBS,7.7
+1249,workingmomparentingdaddy,"['comedy', ' drama', ' family', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+1250,wuri'sfamily,"['romance', ' youth', ' drama', ' family']",2001,['friday'],MBC,7.7
+1251,xx,"['business', ' romance', ' life', ' drama']",2020,['friday'],"MBC, NAVER TV CAST, VLIVE",7.94
+1252,yeongaesomun,['historical'],2006,"['saturday', ' sunday']",SBS,7.7
+1253,yeonnam-dong539,"['comedy', ' life']",2018,['wednesday'],MBN,7.7
+1254,ygfuturestrategyoffice,"['music', ' business', ' comedy']",2018,['friday'],NETFLIX,7.64
+1255,yong-pal,"['action', ' romance', ' drama', ' medical']",2015,"['wednesday', ' thursday']",SBS,7.76
+1256,youandi,"['drama', ' melodrama']",1997,"['saturday', ' sunday']",MBC,7.7
+1257,youareagift,"['romance', ' drama', ' melodrama']",2016,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1258,youaremydestiny,"['business', ' comedy', ' romance', ' drama']",2014,"['wednesday', ' thursday']",MBC,8.08
+1259,youaremyspring,"['thriller', ' mystery', ' romance', ' drama']",2021,"['monday', ' tuesday']","NETFLIX, TVN",7.87
+1260,youarethebest!,"['comedy', ' romance', ' drama', ' family']",2013,"['saturday', ' sunday']",KBS2,7.58
+1261,youaretheboss!,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",MBC,7.7
+1262,youaretheonlyone,"['romance', ' drama', ' family']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",KBS1,7.69
+1263,youaretoomuch,"['music', ' drama', ' family', ' melodrama']",2017,"['saturday', ' sunday']",MBC,7.68
+1264,youdon'tknowwomen,"['romance', ' drama', ' family']",2010,['monday'],SBS,7.7
+1265,youdrivemecrazy,"['comedy', ' romance', ' life', ' drama']",2017,"['monday', ' tuesday']",OCN,7.62
+1266,you'reallsurrounded,"['action', ' mystery', ' comedy', ' drama']",2014,"['wednesday', ' thursday']",SBS,8.04
+1267,you'rebeautiful,"['music', ' comedy', ' romance', ' drama']",2009,"['wednesday', ' thursday']",SBS,7.96
+1268,you'reonlymine,"['romance', ' drama', ' family']",2014,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1269,youngladyandgentleman,"['comedy', ' romance', ' family', ' melodrama']",2021,"['saturday', ' sunday']",KBS2,7.61
+1270,yourhonor,"['comedy', ' law', ' romance', ' drama']",2018,"['wednesday', ' thursday']",SBS,7.84
+1271,yourhousehelper,"['friendship', ' comedy', ' romance', ' life']",2018,"['wednesday', ' thursday']",KBS2,7.76
+1272,yourlady,"['romance', ' drama', ' family', ' melodrama']",2013,"['monday', ' tuesday', ' wednesday', ' thursday', ' friday']",SBS,7.7
+1273,yourneighbor'swife,"['mystery', ' comedy', ' romance', ' family']",2013,"['monday', ' tuesday']",JTBC,7.7
+1275,youthofmay,"['historical', ' romance', ' youth', ' drama']",2021,"['monday', ' tuesday']",KBS2,8.36
+1276,yumi'scells,"['psychological', ' comedy', ' romance', ' drama']",2021,"['friday', ' saturday']",TVN,8.19
+1277,zombiedetective,"['thriller', ' mystery', ' comedy', ' fantasy']",2020,"['monday', ' tuesday']",KBS2,7.92
